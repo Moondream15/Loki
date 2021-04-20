@@ -61,6 +61,24 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Abyssal harpoon과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Abyssal_harpoon {
+            get {
+                return ResourceManager.GetString("Abyssal harpoon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Abyssal razor과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Abyssal_razor {
+            get {
+                return ResourceManager.GetString("Abyssal razor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   All과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string All {
@@ -97,11 +115,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Ancient bark과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Ancient_bark {
+            get {
+                return ResourceManager.GetString("Ancient bark", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ancient bark spear과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Ancient_bark_spear {
+            get {
+                return ResourceManager.GetString("Ancient bark spear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ancient seed과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Ancient_seed {
             get {
                 return ResourceManager.GetString("Ancient seed", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Antler pickaxe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Antler_pickaxe {
+            get {
+                return ResourceManager.GetString("Antler pickaxe", resourceCulture);
             }
         }
         
@@ -241,6 +286,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Banded shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Banded_shield {
+            get {
+                return ResourceManager.GetString("Banded shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Barley과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Barley {
@@ -313,6 +367,24 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Black metal shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Black_metal_shield {
+            get {
+                return ResourceManager.GetString("Black metal shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Black metal tower shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Black_metal_tower_shield {
+            get {
+                return ResourceManager.GetString("Black metal tower shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Blackmetal atgeir과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Blackmetal_atgeir {
@@ -331,11 +403,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Blackmetal knife과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Blackmetal_knife {
+            get {
+                return ResourceManager.GetString("Blackmetal knife", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Blackmetal sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Blackmetal_sword {
+            get {
+                return ResourceManager.GetString("Blackmetal sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Blob hair과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Blob_hair {
             get {
                 return ResourceManager.GetString("Blob hair", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Blob trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Blob_trophy {
+            get {
+                return ResourceManager.GetString("Blob trophy", resourceCulture);
             }
         }
         
@@ -367,6 +466,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Blue mushroom과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Blue_mushroom {
+            get {
+                return ResourceManager.GetString("Blue mushroom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Blueberries과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Blueberries {
@@ -385,11 +493,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Boar trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Boar_trophy {
+            get {
+                return ResourceManager.GetString("Boar trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Bone fragments과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Bone_fragments {
             get {
                 return ResourceManager.GetString("Bone fragments", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bonemass heart과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bonemass_heart {
+            get {
+                return ResourceManager.GetString("Bonemass heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bonemass trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bonemass_trophy {
+            get {
+                return ResourceManager.GetString("Bonemass trophy", resourceCulture);
             }
         }
         
@@ -484,11 +619,47 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Bronze buckler과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_buckler {
+            get {
+                return ResourceManager.GetString("Bronze buckler", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bronze helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_helmet {
+            get {
+                return ResourceManager.GetString("Bronze helmet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bronze mace과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_mace {
+            get {
+                return ResourceManager.GetString("Bronze mace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Bronze nails과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Bronze_nails {
             get {
                 return ResourceManager.GetString("Bronze nails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bronze pickaxe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_pickaxe {
+            get {
+                return ResourceManager.GetString("Bronze pickaxe", resourceCulture);
             }
         }
         
@@ -511,11 +682,47 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Bronze spear과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_spear {
+            get {
+                return ResourceManager.GetString("Bronze spear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Bronze sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Bronze_sword {
+            get {
+                return ResourceManager.GetString("Bronze sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Bronzehead arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Bronzehead_arrow {
             get {
                 return ResourceManager.GetString("Bronzehead arrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Brute sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Brute_sword {
+            get {
+                return ResourceManager.GetString("Brute sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Brute taunt과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Brute_taunt {
+            get {
+                return ResourceManager.GetString("Brute taunt", resourceCulture);
             }
         }
         
@@ -529,11 +736,110 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Cape of Odin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cape_of_Odin {
+            get {
+                return ResourceManager.GetString("Cape of Odin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   CAPE TEST과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string CAPE_TEST {
+            get {
+                return ResourceManager.GetString("CAPE TEST", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Carrot과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Carrot {
+            get {
+                return ResourceManager.GetString("Carrot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Carrot seeds과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Carrot_seeds {
+            get {
+                return ResourceManager.GetString("Carrot seeds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Carrot soup과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Carrot_soup {
+            get {
+                return ResourceManager.GetString("Carrot soup", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Chain과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Chain {
+            get {
+                return ResourceManager.GetString("Chain", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cheat sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cheat_sword {
+            get {
+                return ResourceManager.GetString("Cheat sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Chest과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Chest {
             get {
                 return ResourceManager.GetString("Chest", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Chitin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Chitin {
+            get {
+                return ResourceManager.GetString("Chitin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   claw과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string claw {
+            get {
+                return ResourceManager.GetString("claw", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cloudberries과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cloudberries {
+            get {
+                return ResourceManager.GetString("Cloudberries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Club과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Club {
+            get {
+                return ResourceManager.GetString("Club", resourceCulture);
             }
         }
         
@@ -547,11 +853,110 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Coal과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Coal {
+            get {
+                return ResourceManager.GetString("Coal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Coins과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Coins {
+            get {
+                return ResourceManager.GetString("Coins", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   cold ball과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string cold_ball {
+            get {
+                return ResourceManager.GetString("cold ball", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consumable과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Consumable {
             get {
                 return ResourceManager.GetString("Consumable", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cooked fish과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cooked_fish {
+            get {
+                return ResourceManager.GetString("Cooked fish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cooked lox meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cooked_lox_meat {
+            get {
+                return ResourceManager.GetString("Cooked lox meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cooked meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cooked_meat {
+            get {
+                return ResourceManager.GetString("Cooked meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cooked serpent meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cooked_serpent_meat {
+            get {
+                return ResourceManager.GetString("Cooked serpent meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Copper과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Copper {
+            get {
+                return ResourceManager.GetString("Copper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Copper knife과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Copper_knife {
+            get {
+                return ResourceManager.GetString("Copper knife", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Copper ore과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Copper_ore {
+            get {
+                return ResourceManager.GetString("Copper ore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Core wood과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Core_wood {
+            get {
+                return ResourceManager.GetString("Core wood", resourceCulture);
             }
         }
         
@@ -574,11 +979,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Crystal과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Crystal {
+            get {
+                return ResourceManager.GetString("Crystal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Cultivator과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Cultivator {
+            get {
+                return ResourceManager.GetString("Cultivator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Customisation과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Customisation {
             get {
                 return ResourceManager.GetString("Customisation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dandelion과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dandelion {
+            get {
+                return ResourceManager.GetString("Dandelion", resourceCulture);
             }
         }
         
@@ -592,11 +1024,182 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Deathsquito trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Deathsquito_trophy {
+            get {
+                return ResourceManager.GetString("Deathsquito trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Deer hide과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Deer_hide {
+            get {
+                return ResourceManager.GetString("Deer hide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Deer hide cape과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Deer_hide_cape {
+            get {
+                return ResourceManager.GetString("Deer hide cape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Deer trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Deer_trophy {
+            get {
+                return ResourceManager.GetString("Deer trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   dragon breath과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string dragon_breath {
+            get {
+                return ResourceManager.GetString("dragon breath", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dragon claw left과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dragon_claw_left {
+            get {
+                return ResourceManager.GetString("Dragon claw left", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dragon egg과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dragon_egg {
+            get {
+                return ResourceManager.GetString("Dragon egg", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dragon tear과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dragon_tear {
+            get {
+                return ResourceManager.GetString("Dragon tear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dragur axe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dragur_axe {
+            get {
+                return ResourceManager.GetString("Dragur axe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Drake helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Drake_helmet {
+            get {
+                return ResourceManager.GetString("Drake helmet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Drake trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Drake_trophy {
+            get {
+                return ResourceManager.GetString("Drake trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Draugr Elite trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Draugr_Elite_trophy {
+            get {
+                return ResourceManager.GetString("Draugr Elite trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Draugr fang과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Draugr_fang {
             get {
                 return ResourceManager.GetString("Draugr fang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Draugr trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Draugr_trophy {
+            get {
+                return ResourceManager.GetString("Draugr trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dverger circlet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dverger_circlet {
+            get {
+                return ResourceManager.GetString("Dverger circlet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Dyrnwyn과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Dyrnwyn {
+            get {
+                return ResourceManager.GetString("Dyrnwyn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Eikthyr trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Eikthyr_trophy {
+            get {
+                return ResourceManager.GetString("Eikthyr trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Elder heart과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Elder_heart {
+            get {
+                return ResourceManager.GetString("Elder heart", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Entrails과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Entrails {
+            get {
+                return ResourceManager.GetString("Entrails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fang spear과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fang_spear {
+            get {
+                return ResourceManager.GetString("Fang spear", resourceCulture);
             }
         }
         
@@ -610,6 +1213,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Feathers과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Feathers {
+            get {
+                return ResourceManager.GetString("Feathers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Female과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Female {
@@ -619,11 +1231,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Fenring trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fenring_trophy {
+            get {
+                return ResourceManager.GetString("Fenring trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fine wood과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fine_wood {
+            get {
+                return ResourceManager.GetString("Fine wood", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Finewood bow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Finewood_bow {
             get {
                 return ResourceManager.GetString("Finewood bow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fir cone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fir_cone {
+            get {
+                return ResourceManager.GetString("Fir cone", resourceCulture);
             }
         }
         
@@ -646,11 +1285,83 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   fireballattack과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string fireballattack {
+            get {
+                return ResourceManager.GetString("fireballattack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   FireMagic과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string FireMagic {
             get {
                 return ResourceManager.GetString("FireMagic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fish wraps과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fish_wraps {
+            get {
+                return ResourceManager.GetString("Fish wraps", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fishing bait과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fishing_bait {
+            get {
+                return ResourceManager.GetString("Fishing bait", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fishing rod과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fishing_rod {
+            get {
+                return ResourceManager.GetString("Fishing rod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Flametal과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flametal {
+            get {
+                return ResourceManager.GetString("Flametal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Flametal ore과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flametal_ore {
+            get {
+                return ResourceManager.GetString("Flametal ore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Flax과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flax {
+            get {
+                return ResourceManager.GetString("Flax", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Flint과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flint {
+            get {
+                return ResourceManager.GetString("Flint", resourceCulture);
             }
         }
         
@@ -664,11 +1375,38 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Flint knife과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flint_knife {
+            get {
+                return ResourceManager.GetString("Flint knife", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Flint spear과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Flint_spear {
+            get {
+                return ResourceManager.GetString("Flint spear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Flinthead arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Flinthead_arrow {
             get {
                 return ResourceManager.GetString("Flinthead arrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Freeze gland과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Freeze_gland {
+            get {
+                return ResourceManager.GetString("Freeze gland", resourceCulture);
             }
         }
         
@@ -682,6 +1420,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Frost resistance mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Frost_resistance_mead {
+            get {
+                return ResourceManager.GetString("Frost resistance mead", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   FrostMagic과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string FrostMagic {
@@ -691,11 +1438,110 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Frostner과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Frostner {
+            get {
+                return ResourceManager.GetString("Frostner", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fuling berserker trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fuling_berserker_trophy {
+            get {
+                return ResourceManager.GetString("Fuling berserker trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fuling shaman trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fuling_shaman_trophy {
+            get {
+                return ResourceManager.GetString("Fuling shaman trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fuling totem과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fuling_totem {
+            get {
+                return ResourceManager.GetString("Fuling totem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Fuling trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Fuling_trophy {
+            get {
+                return ResourceManager.GetString("Fuling trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   General과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string General {
             get {
                 return ResourceManager.GetString("General", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Greydwarf Brute trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Greydwarf_Brute_trophy {
+            get {
+                return ResourceManager.GetString("Greydwarf Brute trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Greydwarf eye과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Greydwarf_eye {
+            get {
+                return ResourceManager.GetString("Greydwarf eye", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Greydwarf Shaman trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Greydwarf_Shaman_trophy {
+            get {
+                return ResourceManager.GetString("Greydwarf Shaman trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Greydwarf trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Greydwarf_trophy {
+            get {
+                return ResourceManager.GetString("Greydwarf trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Grilled Neck tail과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Grilled_Neck_tail {
+            get {
+                return ResourceManager.GetString("Grilled Neck tail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Guck과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Guck {
+            get {
+                return ResourceManager.GetString("Guck", resourceCulture);
             }
         }
         
@@ -718,11 +1564,29 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Hammer과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Hammer {
+            get {
+                return ResourceManager.GetString("Hammer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Hands과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Hands {
             get {
                 return ResourceManager.GetString("Hands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Hard antler과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Hard_antler {
+            get {
+                return ResourceManager.GetString("Hard antler", resourceCulture);
             }
         }
         
@@ -745,6 +1609,33 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Hoe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Hoe {
+            get {
+                return ResourceManager.GetString("Hoe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Honey과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Honey {
+            get {
+                return ResourceManager.GetString("Honey", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Hood of Odin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Hood_of_Odin {
+            get {
+                return ResourceManager.GetString("Hood of Odin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Huntsman bow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Huntsman_bow {
@@ -759,6 +1650,15 @@ namespace Loki.Properties {
         public static string Inventory {
             get {
                 return ResourceManager.GetString("Inventory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron {
+            get {
+                return ResourceManager.GetString("Iron", resourceCulture);
             }
         }
         
@@ -790,6 +1690,60 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Iron helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_helmet {
+            get {
+                return ResourceManager.GetString("Iron helmet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron mace과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_mace {
+            get {
+                return ResourceManager.GetString("Iron mace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron nails과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_nails {
+            get {
+                return ResourceManager.GetString("Iron nails", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron ore과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_ore {
+            get {
+                return ResourceManager.GetString("Iron ore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron pickaxe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_pickaxe {
+            get {
+                return ResourceManager.GetString("Iron pickaxe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron plate armor과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_plate_armor {
+            get {
+                return ResourceManager.GetString("Iron plate armor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Iron scale mail과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Iron_scale_mail {
@@ -799,11 +1753,56 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Iron shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_shield {
+            get {
+                return ResourceManager.GetString("Iron shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron sledge과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_sledge {
+            get {
+                return ResourceManager.GetString("Iron sledge", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_sword {
+            get {
+                return ResourceManager.GetString("Iron sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Iron tower shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Iron_tower_shield {
+            get {
+                return ResourceManager.GetString("Iron tower shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ironhead arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Ironhead_arrow {
             get {
                 return ResourceManager.GetString("Ironhead arrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   jaws과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string jaws {
+            get {
+                return ResourceManager.GetString("jaws", resourceCulture);
             }
         }
         
@@ -826,11 +1825,29 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Knight shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Knight_shield {
+            get {
+                return ResourceManager.GetString("Knight shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Knives과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Knives {
             get {
                 return ResourceManager.GetString("Knives", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Leather helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Leather_helmet {
+            get {
+                return ResourceManager.GetString("Leather helmet", resourceCulture);
             }
         }
         
@@ -844,11 +1861,29 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Leather scraps과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Leather_scraps {
+            get {
+                return ResourceManager.GetString("Leather scraps", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Leather tunic과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Leather_tunic {
             get {
                 return ResourceManager.GetString("Leather tunic", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Leech trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Leech_trophy {
+            get {
+                return ResourceManager.GetString("Leech trophy", resourceCulture);
             }
         }
         
@@ -862,11 +1897,92 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Linen cape과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Linen_cape {
+            get {
+                return ResourceManager.GetString("Linen cape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Linen thread과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Linen_thread {
+            get {
+                return ResourceManager.GetString("Linen thread", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   LOG과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string LOG {
+            get {
+                return ResourceManager.GetString("LOG", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Long 1과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Long_1 {
             get {
                 return ResourceManager.GetString("Long 1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   lox bite과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string lox_bite {
+            get {
+                return ResourceManager.GetString("lox bite", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Lox cape과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Lox_cape {
+            get {
+                return ResourceManager.GetString("Lox cape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Lox meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Lox_meat {
+            get {
+                return ResourceManager.GetString("Lox meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Lox meat pie과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Lox_meat_pie {
+            get {
+                return ResourceManager.GetString("Lox meat pie", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Lox pelt과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Lox_pelt {
+            get {
+                return ResourceManager.GetString("Lox pelt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Lox trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Lox_trophy {
+            get {
+                return ResourceManager.GetString("Lox trophy", resourceCulture);
             }
         }
         
@@ -889,11 +2005,119 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Mead base: Frost resistance과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Frost_resistance {
+            get {
+                return ResourceManager.GetString("Mead base: Frost resistance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Medium healing과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Medium_healing {
+            get {
+                return ResourceManager.GetString("Mead base: Medium healing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Medium stamina과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Medium_stamina {
+            get {
+                return ResourceManager.GetString("Mead base: Medium stamina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Minor healing과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Minor_healing {
+            get {
+                return ResourceManager.GetString("Mead base: Minor healing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Minor stamina과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Minor_stamina {
+            get {
+                return ResourceManager.GetString("Mead base: Minor stamina", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Poison resistance과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Poison_resistance {
+            get {
+                return ResourceManager.GetString("Mead base: Poison resistance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead base: Tasty과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_base__Tasty {
+            get {
+                return ResourceManager.GetString("Mead base: Tasty", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mead horn of Odin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mead_horn_of_Odin {
+            get {
+                return ResourceManager.GetString("Mead horn of Odin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Medium healing mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Medium_healing_mead {
+            get {
+                return ResourceManager.GetString("Medium healing mead", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Medium stamina mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Medium_stamina_mead {
+            get {
+                return ResourceManager.GetString("Medium stamina mead", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Megingjord과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Megingjord {
             get {
                 return ResourceManager.GetString("Megingjord", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Minor healing mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Minor_healing_mead {
+            get {
+                return ResourceManager.GetString("Minor healing mead", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Minor stamina mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Minor_stamina_mead {
+            get {
+                return ResourceManager.GetString("Minor stamina mead", resourceCulture);
             }
         }
         
@@ -916,11 +2140,56 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Moder trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Moder_trophy {
+            get {
+                return ResourceManager.GetString("Moder trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Mushroom과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Mushroom {
+            get {
+                return ResourceManager.GetString("Mushroom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Name과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Name {
             get {
                 return ResourceManager.GetString("Name", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Neck tail과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Neck_tail {
+            get {
+                return ResourceManager.GetString("Neck tail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Neck trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Neck_trophy {
+            get {
+                return ResourceManager.GetString("Neck trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Needle과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Needle {
+            get {
+                return ResourceManager.GetString("Needle", resourceCulture);
             }
         }
         
@@ -952,6 +2221,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Obsidian과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Obsidian {
+            get {
+                return ResourceManager.GetString("Obsidian", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Obsidian arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Obsidian_arrow {
@@ -961,11 +2239,29 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   One hand ground slam과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string One_hand_ground_slam {
+            get {
+                return ResourceManager.GetString("One hand ground slam", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   One Handed Weapon과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string One_Handed_Weapon {
             get {
                 return ResourceManager.GetString("One Handed Weapon", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ooze과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Ooze {
+            get {
+                return ResourceManager.GetString("Ooze", resourceCulture);
             }
         }
         
@@ -997,6 +2293,15 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Padded helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Padded_helmet {
+            get {
+                return ResourceManager.GetString("Padded helmet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Pickaxes과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Pickaxes {
@@ -1006,11 +2311,29 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Pine cone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Pine_cone {
+            get {
+                return ResourceManager.GetString("Pine cone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Poison arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Poison_arrow {
             get {
                 return ResourceManager.GetString("Poison arrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Poison resistance mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Poison_resistance_mead {
+            get {
+                return ResourceManager.GetString("Poison resistance mead", resourceCulture);
             }
         }
         
@@ -1060,6 +2383,33 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Porcupine과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Porcupine {
+            get {
+                return ResourceManager.GetString("Porcupine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Queen bee과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Queen_bee {
+            get {
+                return ResourceManager.GetString("Queen bee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Queens jam과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Queens_jam {
+            get {
+                return ResourceManager.GetString("Queens jam", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Rag pants과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Rag_pants {
@@ -1078,11 +2428,65 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Rancid remains trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Rancid_remains_trophy {
+            get {
+                return ResourceManager.GetString("Rancid remains trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Raspberries과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Raspberries {
+            get {
+                return ResourceManager.GetString("Raspberries", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Raw fish과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Raw_fish {
+            get {
+                return ResourceManager.GetString("Raw fish", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Raw meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Raw_meat {
+            get {
+                return ResourceManager.GetString("Raw meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Resin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Resin {
+            get {
+                return ResourceManager.GetString("Resin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Revert과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Revert {
             get {
                 return ResourceManager.GetString("Revert", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ruby과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Ruby {
+            get {
+                return ResourceManager.GetString("Ruby", resourceCulture);
             }
         }
         
@@ -1096,11 +2500,119 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Sausages과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Sausages {
+            get {
+                return ResourceManager.GetString("Sausages", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Save과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Save {
             get {
                 return ResourceManager.GetString("Save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Scrap iron과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Scrap_iron {
+            get {
+                return ResourceManager.GetString("Scrap iron", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   scream과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string scream {
+            get {
+                return ResourceManager.GetString("scream", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent bite과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_bite {
+            get {
+                return ResourceManager.GetString("Serpent bite", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent meat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_meat {
+            get {
+                return ResourceManager.GetString("Serpent meat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent scale과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_scale {
+            get {
+                return ResourceManager.GetString("Serpent scale", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent scale shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_scale_shield {
+            get {
+                return ResourceManager.GetString("Serpent scale shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent stew과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_stew {
+            get {
+                return ResourceManager.GetString("Serpent stew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent Taunt과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_Taunt {
+            get {
+                return ResourceManager.GetString("Serpent Taunt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Serpent trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Serpent_trophy {
+            get {
+                return ResourceManager.GetString("Serpent trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   shaman attack과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string shaman_attack {
+            get {
+                return ResourceManager.GetString("shaman attack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Sharpening stone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Sharpening_stone {
+            get {
+                return ResourceManager.GetString("Sharpening stone", resourceCulture);
             }
         }
         
@@ -1168,11 +2680,65 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Silver과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Silver {
+            get {
+                return ResourceManager.GetString("Silver", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Silver arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Silver_arrow {
             get {
                 return ResourceManager.GetString("Silver arrow", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Silver Necklace과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Silver_Necklace {
+            get {
+                return ResourceManager.GetString("Silver Necklace", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Silver ore과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Silver_ore {
+            get {
+                return ResourceManager.GetString("Silver ore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Silver shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Silver_shield {
+            get {
+                return ResourceManager.GetString("Silver shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Silver sword과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Silver_sword {
+            get {
+                return ResourceManager.GetString("Silver sword", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Skeleton trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Skeleton_trophy {
+            get {
+                return ResourceManager.GetString("Skeleton trophy", resourceCulture);
             }
         }
         
@@ -1231,11 +2797,92 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   spawn과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string spawn {
+            get {
+                return ResourceManager.GetString("spawn", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Spears과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Spears {
             get {
                 return ResourceManager.GetString("Spears", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Spike attack과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Spike_attack {
+            get {
+                return ResourceManager.GetString("Spike attack", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Spike sweep과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Spike_sweep {
+            get {
+                return ResourceManager.GetString("Spike sweep", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   StagAttack1과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string StagAttack1 {
+            get {
+                return ResourceManager.GetString("StagAttack1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   StagAttack2과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string StagAttack2 {
+            get {
+                return ResourceManager.GetString("StagAttack2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stagbreaker과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stagbreaker {
+            get {
+                return ResourceManager.GetString("Stagbreaker", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stamina Greydwarf과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stamina_Greydwarf {
+            get {
+                return ResourceManager.GetString("Stamina Greydwarf", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stamina Troll과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stamina_Troll {
+            get {
+                return ResourceManager.GetString("Stamina Troll", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stamina Wraith과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stamina_Wraith {
+            get {
+                return ResourceManager.GetString("Stamina Wraith", resourceCulture);
             }
         }
         
@@ -1249,11 +2896,65 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Stone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stone {
+            get {
+                return ResourceManager.GetString("Stone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Stone axe과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Stone_axe {
             get {
                 return ResourceManager.GetString("Stone axe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stone Golem trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stone_Golem_trophy {
+            get {
+                return ResourceManager.GetString("Stone Golem trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Stone pickaxe과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Stone_pickaxe {
+            get {
+                return ResourceManager.GetString("Stone pickaxe", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Surtling core과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Surtling_core {
+            get {
+                return ResourceManager.GetString("Surtling core", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Surtling trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Surtling_trophy {
+            get {
+                return ResourceManager.GetString("Surtling trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Swamp key과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Swamp_key {
+            get {
+                return ResourceManager.GetString("Swamp key", resourceCulture);
             }
         }
         
@@ -1276,6 +2977,69 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Tankard과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Tankard {
+            get {
+                return ResourceManager.GetString("Tankard", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Tasty mead과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Tasty_mead {
+            get {
+                return ResourceManager.GetString("Tasty mead", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   The Elder trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string The_Elder_trophy {
+            get {
+                return ResourceManager.GetString("The Elder trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Thistle과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Thistle {
+            get {
+                return ResourceManager.GetString("Thistle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   throw stone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string throw_stone {
+            get {
+                return ResourceManager.GetString("throw stone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Tin과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Tin {
+            get {
+                return ResourceManager.GetString("Tin", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Tin ore과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Tin_ore {
+            get {
+                return ResourceManager.GetString("Tin ore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Tool과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Tool {
@@ -1290,6 +3054,33 @@ namespace Loki.Properties {
         public static string Torch {
             get {
                 return ResourceManager.GetString("Torch", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Troll hide과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Troll_hide {
+            get {
+                return ResourceManager.GetString("Troll hide", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Troll hide cape과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Troll_hide_cape {
+            get {
+                return ResourceManager.GetString("Troll hide cape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Troll leather helmet과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Troll_leather_helmet {
+            get {
+                return ResourceManager.GetString("Troll leather helmet", resourceCulture);
             }
         }
         
@@ -1312,11 +3103,47 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Troll trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Troll_trophy {
+            get {
+                return ResourceManager.GetString("Troll trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Trophy과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Trophy {
             get {
                 return ResourceManager.GetString("Trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Turnip과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Turnip {
+            get {
+                return ResourceManager.GetString("Turnip", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Turnip seeds과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Turnip_seeds {
+            get {
+                return ResourceManager.GetString("Turnip seeds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Turnip stew과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Turnip_stew {
+            get {
+                return ResourceManager.GetString("Turnip stew", resourceCulture);
             }
         }
         
@@ -1357,6 +3184,24 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Wishbone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wishbone {
+            get {
+                return ResourceManager.GetString("Wishbone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Withered bone과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Withered_bone {
+            get {
+                return ResourceManager.GetString("Withered bone", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Wolf armor chest과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Wolf_armor_chest {
@@ -1375,6 +3220,78 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Wolf fang과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wolf_fang {
+            get {
+                return ResourceManager.GetString("Wolf fang", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wolf fur cape과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wolf_fur_cape {
+            get {
+                return ResourceManager.GetString("Wolf fur cape", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wolf pelt과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wolf_pelt {
+            get {
+                return ResourceManager.GetString("Wolf pelt", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wolf trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wolf_trophy {
+            get {
+                return ResourceManager.GetString("Wolf trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   WolfAttack1과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string WolfAttack1 {
+            get {
+                return ResourceManager.GetString("WolfAttack1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   WolfAttack2과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string WolfAttack2 {
+            get {
+                return ResourceManager.GetString("WolfAttack2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   WolfAttack3과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string WolfAttack3 {
+            get {
+                return ResourceManager.GetString("WolfAttack3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wood과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wood {
+            get {
+                return ResourceManager.GetString("Wood", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Wood arrow과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string Wood_arrow {
@@ -1384,11 +3301,92 @@ namespace Loki.Properties {
         }
         
         /// <summary>
+        ///   Wood shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wood_shield {
+            get {
+                return ResourceManager.GetString("Wood shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wood tower shield과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wood_tower_shield {
+            get {
+                return ResourceManager.GetString("Wood tower shield", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   WoodCutting과(와) 유사한 지역화된 문자열을 찾습니다.
         /// </summary>
         public static string WoodCutting {
             get {
                 return ResourceManager.GetString("WoodCutting", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wraith melee과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wraith_melee {
+            get {
+                return ResourceManager.GetString("Wraith melee", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Wraith trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Wraith_trophy {
+            get {
+                return ResourceManager.GetString("Wraith trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Yagluth thing과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Yagluth_thing {
+            get {
+                return ResourceManager.GetString("Yagluth thing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Yagluth trophy과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Yagluth_trophy {
+            get {
+                return ResourceManager.GetString("Yagluth trophy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Yellow mushroom과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Yellow_mushroom {
+            get {
+                return ResourceManager.GetString("Yellow mushroom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ymir flesh과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Ymir_flesh {
+            get {
+                return ResourceManager.GetString("Ymir flesh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Yule hat과(와) 유사한 지역화된 문자열을 찾습니다.
+        /// </summary>
+        public static string Yule_hat {
+            get {
+                return ResourceManager.GetString("Yule hat", resourceCulture);
             }
         }
     }

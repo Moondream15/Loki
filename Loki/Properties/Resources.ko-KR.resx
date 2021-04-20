@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Abyssal harpoon" xml:space="preserve">
+    <value>심연의 작살</value>
+  </data>
+  <data name="Abyssal razor" xml:space="preserve">
+    <value>심연의 면도칼</value>
+  </data>
   <data name="All" xml:space="preserve">
     <value>모두</value>
   </data>
@@ -129,8 +135,17 @@
   <data name="Ammo" xml:space="preserve">
     <value>탄약</value>
   </data>
+  <data name="Ancient bark" xml:space="preserve">
+    <value>고대 나무껍질</value>
+  </data>
+  <data name="Ancient bark spear" xml:space="preserve">
+    <value>고대의 나무 창</value>
+  </data>
   <data name="Ancient seed" xml:space="preserve">
     <value>고대 씨앗</value>
+  </data>
+  <data name="Antler pickaxe" xml:space="preserve">
+    <value>뿔 곡괭이</value>
   </data>
   <data name="Attach Atgeir" xml:space="preserve">
     <value>Attach 아트가이어</value>
@@ -143,6 +158,9 @@
   </data>
   <data name="Backup Restore" xml:space="preserve">
     <value>백업 복원</value>
+  </data>
+  <data name="Banded shield" xml:space="preserve">
+    <value>테두리 원형 방패</value>
   </data>
   <data name="Barley" xml:space="preserve">
     <value>보리</value>
@@ -168,14 +186,29 @@
   <data name="Black metal scrap" xml:space="preserve">
     <value>흑철 고철</value>
   </data>
+  <data name="Black metal shield" xml:space="preserve">
+    <value>흑철 원형 방패</value>
+  </data>
+  <data name="Black metal tower shield" xml:space="preserve">
+    <value>흑철 대형 방패</value>
+  </data>
   <data name="Blackmetal atgeir" xml:space="preserve">
     <value>흑철 아트가이어</value>
   </data>
   <data name="Blackmetal axe" xml:space="preserve">
     <value>흑철 도끼</value>
   </data>
+  <data name="Blackmetal knife" xml:space="preserve">
+    <value>흑철 칼</value>
+  </data>
+  <data name="Blackmetal sword" xml:space="preserve">
+    <value>흑철 검</value>
+  </data>
   <data name="Blob hair" xml:space="preserve">
     <value>블롭 머리</value>
+  </data>
+  <data name="Blob trophy" xml:space="preserve">
+    <value>블롭의 트로피</value>
   </data>
   <data name="Blocking" xml:space="preserve">
     <value>막기</value>
@@ -186,14 +219,26 @@
   <data name="Bloodbag" xml:space="preserve">
     <value>혈액 주머니</value>
   </data>
+  <data name="Blue mushroom" xml:space="preserve">
+    <value>파란색 버섯</value>
+  </data>
   <data name="Blueberries" xml:space="preserve">
     <value>블루베리</value>
   </data>
   <data name="boar attack1" xml:space="preserve">
     <value>boar attack1</value>
   </data>
+  <data name="Boar trophy" xml:space="preserve">
+    <value>멧돼지의 트로피</value>
+  </data>
   <data name="Bone fragments" xml:space="preserve">
     <value>뼛조각</value>
+  </data>
+  <data name="Bonemass heart" xml:space="preserve">
+    <value>본매스 heart</value>
+  </data>
+  <data name="Bonemass trophy" xml:space="preserve">
+    <value>본매스의 트로피</value>
   </data>
   <data name="Bow" xml:space="preserve">
     <value>활</value>
@@ -225,8 +270,20 @@
   <data name="Bronze axe" xml:space="preserve">
     <value>청동 도끼</value>
   </data>
+  <data name="Bronze buckler" xml:space="preserve">
+    <value>청동 버클러</value>
+  </data>
+  <data name="Bronze helmet" xml:space="preserve">
+    <value>청동 투구</value>
+  </data>
+  <data name="Bronze mace" xml:space="preserve">
+    <value>청동 철퇴</value>
+  </data>
   <data name="Bronze nails" xml:space="preserve">
     <value>청동 못</value>
+  </data>
+  <data name="Bronze pickaxe" xml:space="preserve">
+    <value>청동 곡괭이</value>
   </data>
   <data name="Bronze plate cuirass" xml:space="preserve">
     <value>청동 판금 흉갑</value>
@@ -234,8 +291,20 @@
   <data name="Bronze plate leggings" xml:space="preserve">
     <value>청동 판금 각반</value>
   </data>
+  <data name="Bronze spear" xml:space="preserve">
+    <value>청동 창</value>
+  </data>
+  <data name="Bronze sword" xml:space="preserve">
+    <value>청동 검</value>
+  </data>
   <data name="Bronzehead arrow" xml:space="preserve">
     <value>청동 화살</value>
+  </data>
+  <data name="Brute sword" xml:space="preserve">
+    <value>Brute sword</value>
+  </data>
+  <data name="Brute taunt" xml:space="preserve">
+    <value>Brute taunt</value>
   </data>
   <data name="Builds" xml:space="preserve">
     <value>건축</value>
@@ -273,14 +342,80 @@
   <data name="B_Thick 1" xml:space="preserve">
     <value>두꺼운 1</value>
   </data>
+  <data name="Cape of Odin" xml:space="preserve">
+    <value>오딘의 망토</value>
+  </data>
+  <data name="CAPE TEST" xml:space="preserve">
+    <value>CAPE TEST</value>
+  </data>
+  <data name="Carrot" xml:space="preserve">
+    <value>당근</value>
+  </data>
+  <data name="Carrot seeds" xml:space="preserve">
+    <value>당근 씨앗</value>
+  </data>
+  <data name="Carrot soup" xml:space="preserve">
+    <value>당근 수프</value>
+  </data>
+  <data name="Chain" xml:space="preserve">
+    <value>사슬</value>
+  </data>
+  <data name="Cheat sword" xml:space="preserve">
+    <value>Cheat sword</value>
+  </data>
   <data name="Chest" xml:space="preserve">
     <value>상자</value>
+  </data>
+  <data name="Chitin" xml:space="preserve">
+    <value>갑각소</value>
+  </data>
+  <data name="claw" xml:space="preserve">
+    <value>claw</value>
+  </data>
+  <data name="Cloudberries" xml:space="preserve">
+    <value>클라우드베리</value>
+  </data>
+  <data name="Club" xml:space="preserve">
+    <value>몽둥이</value>
   </data>
   <data name="Clubs" xml:space="preserve">
     <value>둔기</value>
   </data>
+  <data name="Coal" xml:space="preserve">
+    <value>석탄</value>
+  </data>
+  <data name="Coins" xml:space="preserve">
+    <value>동전</value>
+  </data>
+  <data name="cold ball" xml:space="preserve">
+    <value>cold ball</value>
+  </data>
   <data name="Consumable" xml:space="preserve">
     <value>소모품</value>
+  </data>
+  <data name="Cooked fish" xml:space="preserve">
+    <value>요리한 생선</value>
+  </data>
+  <data name="Cooked lox meat" xml:space="preserve">
+    <value>요리한 록스 고기</value>
+  </data>
+  <data name="Cooked meat" xml:space="preserve">
+    <value>요리한 고기</value>
+  </data>
+  <data name="Cooked serpent meat" xml:space="preserve">
+    <value>요리한 바다뱀 고기</value>
+  </data>
+  <data name="Copper" xml:space="preserve">
+    <value>구리</value>
+  </data>
+  <data name="Copper knife" xml:space="preserve">
+    <value>구리 칼</value>
+  </data>
+  <data name="Copper ore" xml:space="preserve">
+    <value>구리 광석</value>
+  </data>
+  <data name="Core wood" xml:space="preserve">
+    <value>원통형 나무</value>
   </data>
   <data name="Crafts" xml:space="preserve">
     <value>제작</value>
@@ -288,23 +423,101 @@
   <data name="Crude bow" xml:space="preserve">
     <value>조잡한 활</value>
   </data>
+  <data name="Crystal" xml:space="preserve">
+    <value>수정</value>
+  </data>
+  <data name="Cultivator" xml:space="preserve">
+    <value>쇠스랑</value>
+  </data>
   <data name="Customisation" xml:space="preserve">
     <value>커스터마이징</value>
+  </data>
+  <data name="Dandelion" xml:space="preserve">
+    <value>민들레</value>
   </data>
   <data name="Deaths" xml:space="preserve">
     <value>죽음</value>
   </data>
+  <data name="Deathsquito trophy" xml:space="preserve">
+    <value>죽음 모기의 트로피</value>
+  </data>
+  <data name="Deer hide" xml:space="preserve">
+    <value>사슴 가죽</value>
+  </data>
+  <data name="Deer hide cape" xml:space="preserve">
+    <value>사슴 가죽 망토</value>
+  </data>
+  <data name="Deer trophy" xml:space="preserve">
+    <value>사슴의 트로피</value>
+  </data>
+  <data name="dragon breath" xml:space="preserve">
+    <value>dragon breath</value>
+  </data>
+  <data name="Dragon claw left" xml:space="preserve">
+    <value>Dragon claw left</value>
+  </data>
+  <data name="Dragon egg" xml:space="preserve">
+    <value>드래곤의 알</value>
+  </data>
+  <data name="Dragon tear" xml:space="preserve">
+    <value>드래곤의 눈물</value>
+  </data>
+  <data name="Dragur axe" xml:space="preserve">
+    <value>Dragur axe</value>
+  </data>
+  <data name="Drake helmet" xml:space="preserve">
+    <value>드레이크 투구</value>
+  </data>
+  <data name="Drake trophy" xml:space="preserve">
+    <value>드레이크의 트로피</value>
+  </data>
+  <data name="Draugr Elite trophy" xml:space="preserve">
+    <value>정예 드라우그의 트로피</value>
+  </data>
   <data name="Draugr fang" xml:space="preserve">
     <value>드라우그 송곳니</value>
+  </data>
+  <data name="Draugr trophy" xml:space="preserve">
+    <value>드라우그의 트로피</value>
+  </data>
+  <data name="Dverger circlet" xml:space="preserve">
+    <value>드베르그 관</value>
+  </data>
+  <data name="Dyrnwyn" xml:space="preserve">
+    <value>데르윈</value>
+  </data>
+  <data name="Eikthyr trophy" xml:space="preserve">
+    <value>에이크쉬르의 트로피</value>
+  </data>
+  <data name="Elder heart" xml:space="preserve">
+    <value>엘더 heart</value>
+  </data>
+  <data name="Entrails" xml:space="preserve">
+    <value>내장</value>
+  </data>
+  <data name="Fang spear" xml:space="preserve">
+    <value>송곳니 창</value>
   </data>
   <data name="fart" xml:space="preserve">
     <value>fart</value>
   </data>
+  <data name="Feathers" xml:space="preserve">
+    <value>깃털</value>
+  </data>
   <data name="Female" xml:space="preserve">
     <value>여성</value>
   </data>
+  <data name="Fenring trophy" xml:space="preserve">
+    <value>펜링의 트로피</value>
+  </data>
+  <data name="Fine wood" xml:space="preserve">
+    <value>질 좋은 나무</value>
+  </data>
   <data name="Finewood bow" xml:space="preserve">
     <value>섬세한 나무 활</value>
+  </data>
+  <data name="Fir cone" xml:space="preserve">
+    <value>전나무 방울</value>
   </data>
   <data name="Fire arrow" xml:space="preserve">
     <value>불 화살</value>
@@ -312,23 +525,92 @@
   <data name="Fire resistance barley wine" xml:space="preserve">
     <value>불 저항의 보리주</value>
   </data>
+  <data name="fireballattack" xml:space="preserve">
+    <value>fireballattack</value>
+  </data>
   <data name="FireMagic" xml:space="preserve">
     <value>불 마법</value>
+  </data>
+  <data name="Fish wraps" xml:space="preserve">
+    <value>피쉬랩</value>
+  </data>
+  <data name="Fishing bait" xml:space="preserve">
+    <value>낚시 미끼</value>
+  </data>
+  <data name="Fishing rod" xml:space="preserve">
+    <value>낚싯대</value>
+  </data>
+  <data name="Flametal" xml:space="preserve">
+    <value>불금속</value>
+  </data>
+  <data name="Flametal ore" xml:space="preserve">
+    <value>불금속 광석</value>
+  </data>
+  <data name="Flax" xml:space="preserve">
+    <value>아마 섬유</value>
+  </data>
+  <data name="Flint" xml:space="preserve">
+    <value>부싯돌</value>
   </data>
   <data name="Flint axe" xml:space="preserve">
     <value>부싯돌 도끼</value>
   </data>
+  <data name="Flint knife" xml:space="preserve">
+    <value>부싯돌 칼</value>
+  </data>
+  <data name="Flint spear" xml:space="preserve">
+    <value>부싯돌 창</value>
+  </data>
   <data name="Flinthead arrow" xml:space="preserve">
     <value>부싯돌 화살</value>
+  </data>
+  <data name="Freeze gland" xml:space="preserve">
+    <value>동결선</value>
   </data>
   <data name="Frost arrow" xml:space="preserve">
     <value>냉기 화살</value>
   </data>
+  <data name="Frost resistance mead" xml:space="preserve">
+    <value>냉기 저항의 벌꿀주</value>
+  </data>
   <data name="FrostMagic" xml:space="preserve">
     <value>얼음 마법</value>
   </data>
+  <data name="Frostner" xml:space="preserve">
+    <value>프로스트너</value>
+  </data>
+  <data name="Fuling berserker trophy" xml:space="preserve">
+    <value>풀링 광전사의 트로피</value>
+  </data>
+  <data name="Fuling shaman trophy" xml:space="preserve">
+    <value>풀링 주술사의 트로피</value>
+  </data>
+  <data name="Fuling totem" xml:space="preserve">
+    <value>풀링 토템</value>
+  </data>
+  <data name="Fuling trophy" xml:space="preserve">
+    <value>풀링의 트로피</value>
+  </data>
   <data name="General" xml:space="preserve">
     <value>일반</value>
+  </data>
+  <data name="Greydwarf Brute trophy" xml:space="preserve">
+    <value>회색 난쟁이 투사의 트로피</value>
+  </data>
+  <data name="Greydwarf eye" xml:space="preserve">
+    <value>회색 난쟁이의 눈</value>
+  </data>
+  <data name="Greydwarf Shaman trophy" xml:space="preserve">
+    <value>회색 난쟁이 주술사의 트로피</value>
+  </data>
+  <data name="Greydwarf trophy" xml:space="preserve">
+    <value>회색 난쟁이의 트로피</value>
+  </data>
+  <data name="Grilled Neck tail" xml:space="preserve">
+    <value>구운 넥 꼬리</value>
+  </data>
+  <data name="Guck" xml:space="preserve">
+    <value>찌꺼기</value>
   </data>
   <data name="Hair" xml:space="preserve">
     <value>머리</value>
@@ -336,8 +618,14 @@
   <data name="Hair Colour" xml:space="preserve">
     <value>머리색</value>
   </data>
+  <data name="Hammer" xml:space="preserve">
+    <value>망치</value>
+  </data>
   <data name="Hands" xml:space="preserve">
     <value>손</value>
+  </data>
+  <data name="Hard antler" xml:space="preserve">
+    <value>사슴의 단단한 뿔</value>
   </data>
   <data name="heal" xml:space="preserve">
     <value>heal</value>
@@ -345,11 +633,23 @@
   <data name="Helmet" xml:space="preserve">
     <value>투구</value>
   </data>
+  <data name="Hoe" xml:space="preserve">
+    <value>괭이</value>
+  </data>
+  <data name="Honey" xml:space="preserve">
+    <value>꿀</value>
+  </data>
+  <data name="Hood of Odin" xml:space="preserve">
+    <value>오딘의 후드</value>
+  </data>
   <data name="Huntsman bow" xml:space="preserve">
     <value>사냥꾼 활</value>
   </data>
   <data name="Inventory" xml:space="preserve">
     <value>인벤토리</value>
+  </data>
+  <data name="Iron" xml:space="preserve">
+    <value>철</value>
   </data>
   <data name="Iron atgeir" xml:space="preserve">
     <value>철 아트가이어</value>
@@ -360,11 +660,44 @@
   <data name="Iron greaves" xml:space="preserve">
     <value>철 정강이갑옷</value>
   </data>
+  <data name="Iron helmet" xml:space="preserve">
+    <value>철 투구</value>
+  </data>
+  <data name="Iron mace" xml:space="preserve">
+    <value>철 철퇴</value>
+  </data>
+  <data name="Iron nails" xml:space="preserve">
+    <value>철 못</value>
+  </data>
+  <data name="Iron ore" xml:space="preserve">
+    <value>철 광석</value>
+  </data>
+  <data name="Iron pickaxe" xml:space="preserve">
+    <value>철 곡괭이</value>
+  </data>
+  <data name="Iron plate armor" xml:space="preserve">
+    <value>Iron plate armor</value>
+  </data>
   <data name="Iron scale mail" xml:space="preserve">
     <value>철 비늘 갑옷</value>
   </data>
+  <data name="Iron shield" xml:space="preserve">
+    <value>철 원형 방패</value>
+  </data>
+  <data name="Iron sledge" xml:space="preserve">
+    <value>철 슬레지해머</value>
+  </data>
+  <data name="Iron sword" xml:space="preserve">
+    <value>철 검</value>
+  </data>
+  <data name="Iron tower shield" xml:space="preserve">
+    <value>철 대형 방패</value>
+  </data>
   <data name="Ironhead arrow" xml:space="preserve">
     <value>철 화살</value>
+  </data>
+  <data name="jaws" xml:space="preserve">
+    <value>jaws</value>
   </data>
   <data name="Jump" xml:space="preserve">
     <value>점프</value>
@@ -372,20 +705,59 @@
   <data name="Kills" xml:space="preserve">
     <value>처치</value>
   </data>
+  <data name="Knight shield" xml:space="preserve">
+    <value>Knight shield</value>
+  </data>
   <data name="Knives" xml:space="preserve">
     <value>칼</value>
+  </data>
+  <data name="Leather helmet" xml:space="preserve">
+    <value>가죽 투구</value>
   </data>
   <data name="Leather pants" xml:space="preserve">
     <value>가죽 바지</value>
   </data>
+  <data name="Leather scraps" xml:space="preserve">
+    <value>가죽 조각</value>
+  </data>
   <data name="Leather tunic" xml:space="preserve">
     <value>가죽 튜닉</value>
+  </data>
+  <data name="Leech trophy" xml:space="preserve">
+    <value>거머리의 트로피</value>
   </data>
   <data name="Legs" xml:space="preserve">
     <value>다리</value>
   </data>
+  <data name="Linen cape" xml:space="preserve">
+    <value>섬유 망토</value>
+  </data>
+  <data name="Linen thread" xml:space="preserve">
+    <value>아마포 실</value>
+  </data>
+  <data name="LOG" xml:space="preserve">
+    <value>통나무</value>
+  </data>
   <data name="Long 1" xml:space="preserve">
     <value>긴머리 1</value>
+  </data>
+  <data name="lox bite" xml:space="preserve">
+    <value>lox bite</value>
+  </data>
+  <data name="Lox cape" xml:space="preserve">
+    <value>록스 가죽 망토</value>
+  </data>
+  <data name="Lox meat" xml:space="preserve">
+    <value>록스 고기</value>
+  </data>
+  <data name="Lox meat pie" xml:space="preserve">
+    <value>록스 고기 파이</value>
+  </data>
+  <data name="Lox pelt" xml:space="preserve">
+    <value>록스 가죽</value>
+  </data>
+  <data name="Lox trophy" xml:space="preserve">
+    <value>록스의 트로피</value>
   </data>
   <data name="Male" xml:space="preserve">
     <value>남성</value>
@@ -393,8 +765,44 @@
   <data name="Material" xml:space="preserve">
     <value>재료</value>
   </data>
+  <data name="Mead base: Frost resistance" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 냉기 저항</value>
+  </data>
+  <data name="Mead base: Medium healing" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 중급 회복</value>
+  </data>
+  <data name="Mead base: Medium stamina" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 중급 스태미나</value>
+  </data>
+  <data name="Mead base: Minor healing" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 하급 회복</value>
+  </data>
+  <data name="Mead base: Minor stamina" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 하급 스태미나 </value>
+  </data>
+  <data name="Mead base: Poison resistance" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 독 저항</value>
+  </data>
+  <data name="Mead base: Tasty" xml:space="preserve">
+    <value>발효되지 않은 벌꿀주: 맛</value>
+  </data>
+  <data name="Mead horn of Odin" xml:space="preserve">
+    <value>오딘의 뿔잔</value>
+  </data>
+  <data name="Medium healing mead" xml:space="preserve">
+    <value>중급 회복의 벌꿀주</value>
+  </data>
+  <data name="Medium stamina mead" xml:space="preserve">
+    <value>중급 스태미나 회복의 벌꿀주</value>
+  </data>
   <data name="Megingjord" xml:space="preserve">
     <value>메긴기요르드</value>
+  </data>
+  <data name="Minor healing mead" xml:space="preserve">
+    <value>하급 회복의 벌꿀주</value>
+  </data>
+  <data name="Minor stamina mead" xml:space="preserve">
+    <value>하급 스태미나 회복의 벌꿀주</value>
   </data>
   <data name="Miscellaneous" xml:space="preserve">
     <value>기타 아이템</value>
@@ -402,8 +810,23 @@
   <data name="Model" xml:space="preserve">
     <value>모델</value>
   </data>
+  <data name="Moder trophy" xml:space="preserve">
+    <value>모더의 트로피</value>
+  </data>
+  <data name="Mushroom" xml:space="preserve">
+    <value>버섯</value>
+  </data>
   <data name="Name" xml:space="preserve">
     <value>이름</value>
+  </data>
+  <data name="Neck tail" xml:space="preserve">
+    <value>넥 꼬리</value>
+  </data>
+  <data name="Neck trophy" xml:space="preserve">
+    <value>넥의 트로피</value>
+  </data>
+  <data name="Needle" xml:space="preserve">
+    <value>바늘</value>
   </data>
   <data name="Needle arrow" xml:space="preserve">
     <value>바늘 화살</value>
@@ -414,11 +837,20 @@
   <data name="None" xml:space="preserve">
     <value>없음</value>
   </data>
+  <data name="Obsidian" xml:space="preserve">
+    <value>흑요석</value>
+  </data>
   <data name="Obsidian arrow" xml:space="preserve">
     <value>흑요석 화살</value>
   </data>
+  <data name="One hand ground slam" xml:space="preserve">
+    <value>One hand ground slam</value>
+  </data>
   <data name="One Handed Weapon" xml:space="preserve">
     <value>한손 무기</value>
+  </data>
+  <data name="Ooze" xml:space="preserve">
+    <value>수액</value>
   </data>
   <data name="Ooze bomb" xml:space="preserve">
     <value>수액 폭탄</value>
@@ -429,11 +861,20 @@
   <data name="Padded greaves" xml:space="preserve">
     <value>누비 각반</value>
   </data>
+  <data name="Padded helmet" xml:space="preserve">
+    <value>누비 투구</value>
+  </data>
   <data name="Pickaxes" xml:space="preserve">
     <value>곡괭이</value>
   </data>
+  <data name="Pine cone" xml:space="preserve">
+    <value>솔방울</value>
+  </data>
   <data name="Poison arrow" xml:space="preserve">
     <value>독 화살</value>
+  </data>
+  <data name="Poison resistance mead" xml:space="preserve">
+    <value>독 저항의 벌꿀주</value>
   </data>
   <data name="Polearms" xml:space="preserve">
     <value>폴암</value>
@@ -450,20 +891,83 @@
   <data name="Ponytail 4" xml:space="preserve">
     <value>포니테일 4</value>
   </data>
+  <data name="Porcupine" xml:space="preserve">
+    <value>산미치광이</value>
+  </data>
+  <data name="Queen bee" xml:space="preserve">
+    <value>여왕벌</value>
+  </data>
+  <data name="Queens jam" xml:space="preserve">
+    <value>여왕의 잼</value>
+  </data>
   <data name="Rag pants" xml:space="preserve">
     <value>누더기 바지</value>
   </data>
   <data name="Rag tunic" xml:space="preserve">
     <value>누더기 튜닉</value>
   </data>
+  <data name="Rancid remains trophy" xml:space="preserve">
+    <value>부패한 유해의 트로피</value>
+  </data>
+  <data name="Raspberries" xml:space="preserve">
+    <value>라즈베리</value>
+  </data>
+  <data name="Raw fish" xml:space="preserve">
+    <value>날생선</value>
+  </data>
+  <data name="Raw meat" xml:space="preserve">
+    <value>날고기</value>
+  </data>
+  <data name="Resin" xml:space="preserve">
+    <value>수지</value>
+  </data>
   <data name="Revert" xml:space="preserve">
     <value>되돌리기</value>
+  </data>
+  <data name="Ruby" xml:space="preserve">
+    <value>루비</value>
   </data>
   <data name="Run" xml:space="preserve">
     <value>달리기</value>
   </data>
+  <data name="Sausages" xml:space="preserve">
+    <value>소시지</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>저장</value>
+  </data>
+  <data name="Scrap iron" xml:space="preserve">
+    <value>고철</value>
+  </data>
+  <data name="scream" xml:space="preserve">
+    <value>scream</value>
+  </data>
+  <data name="Serpent bite" xml:space="preserve">
+    <value>바다뱀 bite</value>
+  </data>
+  <data name="Serpent meat" xml:space="preserve">
+    <value>바다뱀 고기</value>
+  </data>
+  <data name="Serpent scale" xml:space="preserve">
+    <value>바다뱀 비늘</value>
+  </data>
+  <data name="Serpent scale shield" xml:space="preserve">
+    <value>바다뱀 비늘 방패</value>
+  </data>
+  <data name="Serpent stew" xml:space="preserve">
+    <value>바다뱀 스튜</value>
+  </data>
+  <data name="Serpent Taunt" xml:space="preserve">
+    <value>바다뱀 Taunt</value>
+  </data>
+  <data name="Serpent trophy" xml:space="preserve">
+    <value>바다뱀의 트로피</value>
+  </data>
+  <data name="shaman attack" xml:space="preserve">
+    <value>shaman attack</value>
+  </data>
+  <data name="Sharpening stone" xml:space="preserve">
+    <value>숫돌</value>
   </data>
   <data name="Shield" xml:space="preserve">
     <value>방패</value>
@@ -486,8 +990,26 @@
   <data name="Side Swept 3" xml:space="preserve">
     <value>사이드 스웹트 3</value>
   </data>
+  <data name="Silver" xml:space="preserve">
+    <value>은</value>
+  </data>
   <data name="Silver arrow" xml:space="preserve">
     <value>은 화살</value>
+  </data>
+  <data name="Silver Necklace" xml:space="preserve">
+    <value>은 목걸이</value>
+  </data>
+  <data name="Silver ore" xml:space="preserve">
+    <value>은 광석</value>
+  </data>
+  <data name="Silver shield" xml:space="preserve">
+    <value>은 원형 방패</value>
+  </data>
+  <data name="Silver sword" xml:space="preserve">
+    <value>은 검</value>
+  </data>
+  <data name="Skeleton trophy" xml:space="preserve">
+    <value>해골의 트로피</value>
   </data>
   <data name="Skills" xml:space="preserve">
     <value>기술</value>
@@ -507,14 +1029,59 @@
   <data name="Sneak" xml:space="preserve">
     <value>은신</value>
   </data>
+  <data name="spawn" xml:space="preserve">
+    <value>spawn</value>
+  </data>
   <data name="Spears" xml:space="preserve">
     <value>창</value>
+  </data>
+  <data name="Spike attack" xml:space="preserve">
+    <value>Spike attack</value>
+  </data>
+  <data name="Spike sweep" xml:space="preserve">
+    <value>Spike sweep</value>
+  </data>
+  <data name="StagAttack1" xml:space="preserve">
+    <value>StagAttack1</value>
+  </data>
+  <data name="StagAttack2" xml:space="preserve">
+    <value>StagAttack2</value>
+  </data>
+  <data name="Stagbreaker" xml:space="preserve">
+    <value>뿔 파괴기</value>
+  </data>
+  <data name="Stamina Greydwarf" xml:space="preserve">
+    <value>Stamina Greydwarf</value>
+  </data>
+  <data name="Stamina Troll" xml:space="preserve">
+    <value>Stamina Troll</value>
+  </data>
+  <data name="Stamina Wraith" xml:space="preserve">
+    <value>Stamina Wraith</value>
   </data>
   <data name="Stats" xml:space="preserve">
     <value>통계</value>
   </data>
+  <data name="Stone" xml:space="preserve">
+    <value>돌</value>
+  </data>
   <data name="Stone axe" xml:space="preserve">
     <value>돌 도끼</value>
+  </data>
+  <data name="Stone Golem trophy" xml:space="preserve">
+    <value>바위 골렘의 트로피</value>
+  </data>
+  <data name="Stone pickaxe" xml:space="preserve">
+    <value>돌 곡괭이</value>
+  </data>
+  <data name="Surtling core" xml:space="preserve">
+    <value>수르트링 핵</value>
+  </data>
+  <data name="Surtling trophy" xml:space="preserve">
+    <value>수르트링의 트로피</value>
+  </data>
+  <data name="Swamp key" xml:space="preserve">
+    <value>늪지대 열쇠</value>
   </data>
   <data name="Swim" xml:space="preserve">
     <value>수영</value>
@@ -522,11 +1089,41 @@
   <data name="Swords" xml:space="preserve">
     <value>검</value>
   </data>
+  <data name="Tankard" xml:space="preserve">
+    <value>맥주잔</value>
+  </data>
+  <data name="Tasty mead" xml:space="preserve">
+    <value>맛있는 벌꿀주</value>
+  </data>
+  <data name="The Elder trophy" xml:space="preserve">
+    <value>엘더의 트로피</value>
+  </data>
+  <data name="Thistle" xml:space="preserve">
+    <value>엉겅퀴</value>
+  </data>
+  <data name="throw stone" xml:space="preserve">
+    <value>throw stone</value>
+  </data>
+  <data name="Tin" xml:space="preserve">
+    <value>주석</value>
+  </data>
+  <data name="Tin ore" xml:space="preserve">
+    <value>주석 광석</value>
+  </data>
   <data name="Tool" xml:space="preserve">
     <value>도구</value>
   </data>
   <data name="Torch" xml:space="preserve">
     <value>횃불</value>
+  </data>
+  <data name="Troll hide" xml:space="preserve">
+    <value>트롤 가죽</value>
+  </data>
+  <data name="Troll hide cape" xml:space="preserve">
+    <value>트롤 가죽 망토</value>
+  </data>
+  <data name="Troll leather helmet" xml:space="preserve">
+    <value>트롤 가죽 투구</value>
   </data>
   <data name="Troll leather pants" xml:space="preserve">
     <value>트롤 가죽 바지</value>
@@ -534,8 +1131,20 @@
   <data name="Troll leather tunic" xml:space="preserve">
     <value>트롤 가죽 튜닉</value>
   </data>
+  <data name="Troll trophy" xml:space="preserve">
+    <value>트롤의 트로피</value>
+  </data>
   <data name="Trophy" xml:space="preserve">
     <value>트로피</value>
+  </data>
+  <data name="Turnip" xml:space="preserve">
+    <value>순무</value>
+  </data>
+  <data name="Turnip seeds" xml:space="preserve">
+    <value>순무 씨앗</value>
+  </data>
+  <data name="Turnip stew" xml:space="preserve">
+    <value>순무 스튜</value>
   </data>
   <data name="Two Handed Weapon" xml:space="preserve">
     <value>두손 무기</value>
@@ -549,16 +1158,73 @@
   <data name="Utility" xml:space="preserve">
     <value>유틸리티</value>
   </data>
+  <data name="Wishbone" xml:space="preserve">
+    <value>위시본</value>
+  </data>
+  <data name="Withered bone" xml:space="preserve">
+    <value>약해진 뼈</value>
+  </data>
   <data name="Wolf armor chest" xml:space="preserve">
     <value>늑대 흉갑 방어구</value>
   </data>
   <data name="Wolf armor legs" xml:space="preserve">
     <value>늑대 가죽 바지</value>
   </data>
+  <data name="Wolf fang" xml:space="preserve">
+    <value>늑대의 송곳니</value>
+  </data>
+  <data name="Wolf fur cape" xml:space="preserve">
+    <value>늑대 가죽 망토</value>
+  </data>
+  <data name="Wolf pelt" xml:space="preserve">
+    <value>늑대 털가죽</value>
+  </data>
+  <data name="Wolf trophy" xml:space="preserve">
+    <value>늑대의 트로피</value>
+  </data>
+  <data name="WolfAttack1" xml:space="preserve">
+    <value>WolfAttack1</value>
+  </data>
+  <data name="WolfAttack2" xml:space="preserve">
+    <value>WolfAttack2</value>
+  </data>
+  <data name="WolfAttack3" xml:space="preserve">
+    <value>WolfAttack3</value>
+  </data>
+  <data name="Wood" xml:space="preserve">
+    <value>나무</value>
+  </data>
   <data name="Wood arrow" xml:space="preserve">
     <value>나무 화살</value>
   </data>
+  <data name="Wood shield" xml:space="preserve">
+    <value>나무 원형 방패</value>
+  </data>
+  <data name="Wood tower shield" xml:space="preserve">
+    <value>나무 대형 방패</value>
+  </data>
   <data name="WoodCutting" xml:space="preserve">
     <value>벌목</value>
+  </data>
+  <data name="Wraith melee" xml:space="preserve">
+    <value>Wraith melee</value>
+  </data>
+  <data name="Wraith trophy" xml:space="preserve">
+    <value>망령의 트로피</value>
+  </data>
+  <data name="Yagluth thing" xml:space="preserve">
+    <value>Yagluth thing</value>
+  </data>
+  <data name="Yagluth trophy" xml:space="preserve">
+    <value>야글루스의 트로피</value>
+  </data>
+  <data name="Yellow mushroom" xml:space="preserve">
+    <value>노란색 버섯</value>
+  </data>
+  <data name="Ymir flesh" xml:space="preserve">
+    <value>이미르의 살점</value>
+  </data>
+  <data name="Yule hat" xml:space="preserve">
+    <value>율 모자</value>
   </data>
 </root>

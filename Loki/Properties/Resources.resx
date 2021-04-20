@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Abyssal harpoon" xml:space="preserve">
+    <value>Abyssal harpoon</value>
+  </data>
+  <data name="Abyssal razor" xml:space="preserve">
+    <value>Abyssal razor</value>
+  </data>
   <data name="All" xml:space="preserve">
     <value>All</value>
   </data>
@@ -129,8 +135,17 @@
   <data name="Ammo" xml:space="preserve">
     <value>Ammo</value>
   </data>
+  <data name="Ancient bark" xml:space="preserve">
+    <value>Ancient bark</value>
+  </data>
+  <data name="Ancient bark spear" xml:space="preserve">
+    <value>Ancient bark spear</value>
+  </data>
   <data name="Ancient seed" xml:space="preserve">
     <value>Ancient seed</value>
+  </data>
+  <data name="Antler pickaxe" xml:space="preserve">
+    <value>Antler pickaxe</value>
   </data>
   <data name="Attach Atgeir" xml:space="preserve">
     <value>Attach Atgeir</value>
@@ -143,6 +158,9 @@
   </data>
   <data name="Backup Restore" xml:space="preserve">
     <value>Backup Restore</value>
+  </data>
+  <data name="Banded shield" xml:space="preserve">
+    <value>Banded shield</value>
   </data>
   <data name="Barley" xml:space="preserve">
     <value>Barley</value>
@@ -168,14 +186,29 @@
   <data name="Black metal scrap" xml:space="preserve">
     <value>Black metal scrap</value>
   </data>
+  <data name="Black metal shield" xml:space="preserve">
+    <value>Black metal shield</value>
+  </data>
+  <data name="Black metal tower shield" xml:space="preserve">
+    <value>Black metal tower shield</value>
+  </data>
   <data name="Blackmetal atgeir" xml:space="preserve">
     <value>Blackmetal atgeir</value>
   </data>
   <data name="Blackmetal axe" xml:space="preserve">
     <value>Blackmetal axe</value>
   </data>
+  <data name="Blackmetal knife" xml:space="preserve">
+    <value>Blackmetal knife</value>
+  </data>
+  <data name="Blackmetal sword" xml:space="preserve">
+    <value>Blackmetal sword</value>
+  </data>
   <data name="Blob hair" xml:space="preserve">
     <value>Blob hair</value>
+  </data>
+  <data name="Blob trophy" xml:space="preserve">
+    <value>Blob trophy</value>
   </data>
   <data name="Blocking" xml:space="preserve">
     <value>Blocking</value>
@@ -186,14 +219,26 @@
   <data name="Bloodbag" xml:space="preserve">
     <value>Bloodbag</value>
   </data>
+  <data name="Blue mushroom" xml:space="preserve">
+    <value>Blue mushroom</value>
+  </data>
   <data name="Blueberries" xml:space="preserve">
     <value>Blueberries</value>
   </data>
   <data name="boar attack1" xml:space="preserve">
     <value>boar attack1</value>
   </data>
+  <data name="Boar trophy" xml:space="preserve">
+    <value>Boar trophy</value>
+  </data>
   <data name="Bone fragments" xml:space="preserve">
     <value>Bone fragments</value>
+  </data>
+  <data name="Bonemass heart" xml:space="preserve">
+    <value>Bonemass heart</value>
+  </data>
+  <data name="Bonemass trophy" xml:space="preserve">
+    <value>Bonemass trophy</value>
   </data>
   <data name="Bow" xml:space="preserve">
     <value>Bow</value>
@@ -225,8 +270,20 @@
   <data name="Bronze axe" xml:space="preserve">
     <value>Bronze axe</value>
   </data>
+  <data name="Bronze buckler" xml:space="preserve">
+    <value>Bronze buckler</value>
+  </data>
+  <data name="Bronze helmet" xml:space="preserve">
+    <value>Bronze helmet</value>
+  </data>
+  <data name="Bronze mace" xml:space="preserve">
+    <value>Bronze mace</value>
+  </data>
   <data name="Bronze nails" xml:space="preserve">
     <value>Bronze nails</value>
+  </data>
+  <data name="Bronze pickaxe" xml:space="preserve">
+    <value>Bronze pickaxe</value>
   </data>
   <data name="Bronze plate cuirass" xml:space="preserve">
     <value>Bronze plate cuirass</value>
@@ -234,8 +291,20 @@
   <data name="Bronze plate leggings" xml:space="preserve">
     <value>Bronze plate leggings</value>
   </data>
+  <data name="Bronze spear" xml:space="preserve">
+    <value>Bronze spear</value>
+  </data>
+  <data name="Bronze sword" xml:space="preserve">
+    <value>Bronze sword</value>
+  </data>
   <data name="Bronzehead arrow" xml:space="preserve">
     <value>Bronzehead arrow</value>
+  </data>
+  <data name="Brute sword" xml:space="preserve">
+    <value>Brute sword</value>
+  </data>
+  <data name="Brute taunt" xml:space="preserve">
+    <value>Brute taunt</value>
   </data>
   <data name="Builds" xml:space="preserve">
     <value>Builds</value>
@@ -273,14 +342,80 @@
   <data name="B_Thick 1" xml:space="preserve">
     <value>Thick 1</value>
   </data>
+  <data name="Cape of Odin" xml:space="preserve">
+    <value>Cape of Odin</value>
+  </data>
+  <data name="CAPE TEST" xml:space="preserve">
+    <value>CAPE TEST</value>
+  </data>
+  <data name="Carrot" xml:space="preserve">
+    <value>Carrot</value>
+  </data>
+  <data name="Carrot seeds" xml:space="preserve">
+    <value>Carrot seeds</value>
+  </data>
+  <data name="Carrot soup" xml:space="preserve">
+    <value>Carrot soup</value>
+  </data>
+  <data name="Chain" xml:space="preserve">
+    <value>Chain</value>
+  </data>
+  <data name="Cheat sword" xml:space="preserve">
+    <value>Cheat sword</value>
+  </data>
   <data name="Chest" xml:space="preserve">
     <value>Chest</value>
+  </data>
+  <data name="Chitin" xml:space="preserve">
+    <value>Chitin</value>
+  </data>
+  <data name="claw" xml:space="preserve">
+    <value>claw</value>
+  </data>
+  <data name="Cloudberries" xml:space="preserve">
+    <value>Cloudberries</value>
+  </data>
+  <data name="Club" xml:space="preserve">
+    <value>Club</value>
   </data>
   <data name="Clubs" xml:space="preserve">
     <value>Clubs</value>
   </data>
+  <data name="Coal" xml:space="preserve">
+    <value>Coal</value>
+  </data>
+  <data name="Coins" xml:space="preserve">
+    <value>Coins</value>
+  </data>
+  <data name="cold ball" xml:space="preserve">
+    <value>cold ball</value>
+  </data>
   <data name="Consumable" xml:space="preserve">
     <value>Consumable</value>
+  </data>
+  <data name="Cooked fish" xml:space="preserve">
+    <value>Cooked fish</value>
+  </data>
+  <data name="Cooked lox meat" xml:space="preserve">
+    <value>Cooked lox meat</value>
+  </data>
+  <data name="Cooked meat" xml:space="preserve">
+    <value>Cooked meat</value>
+  </data>
+  <data name="Cooked serpent meat" xml:space="preserve">
+    <value>Cooked serpent meat</value>
+  </data>
+  <data name="Copper" xml:space="preserve">
+    <value>Copper</value>
+  </data>
+  <data name="Copper knife" xml:space="preserve">
+    <value>Copper knife</value>
+  </data>
+  <data name="Copper ore" xml:space="preserve">
+    <value>Copper ore</value>
+  </data>
+  <data name="Core wood" xml:space="preserve">
+    <value>Core wood</value>
   </data>
   <data name="Crafts" xml:space="preserve">
     <value>Crafts</value>
@@ -288,23 +423,101 @@
   <data name="Crude bow" xml:space="preserve">
     <value>Crude bow</value>
   </data>
+  <data name="Crystal" xml:space="preserve">
+    <value>Crystal</value>
+  </data>
+  <data name="Cultivator" xml:space="preserve">
+    <value>Cultivator</value>
+  </data>
   <data name="Customisation" xml:space="preserve">
     <value>Customisation</value>
+  </data>
+  <data name="Dandelion" xml:space="preserve">
+    <value>Dandelion</value>
   </data>
   <data name="Deaths" xml:space="preserve">
     <value>Deaths</value>
   </data>
+  <data name="Deathsquito trophy" xml:space="preserve">
+    <value>Deathsquito trophy</value>
+  </data>
+  <data name="Deer hide" xml:space="preserve">
+    <value>Deer hide</value>
+  </data>
+  <data name="Deer hide cape" xml:space="preserve">
+    <value>Deer hide cape</value>
+  </data>
+  <data name="Deer trophy" xml:space="preserve">
+    <value>Deer trophy</value>
+  </data>
+  <data name="dragon breath" xml:space="preserve">
+    <value>dragon breath</value>
+  </data>
+  <data name="Dragon claw left" xml:space="preserve">
+    <value>Dragon claw left</value>
+  </data>
+  <data name="Dragon egg" xml:space="preserve">
+    <value>Dragon egg</value>
+  </data>
+  <data name="Dragon tear" xml:space="preserve">
+    <value>Dragon tear</value>
+  </data>
+  <data name="Dragur axe" xml:space="preserve">
+    <value>Dragur axe</value>
+  </data>
+  <data name="Drake helmet" xml:space="preserve">
+    <value>Drake helmet</value>
+  </data>
+  <data name="Drake trophy" xml:space="preserve">
+    <value>Drake trophy</value>
+  </data>
+  <data name="Draugr Elite trophy" xml:space="preserve">
+    <value>Draugr Elite trophy</value>
+  </data>
   <data name="Draugr fang" xml:space="preserve">
     <value>Draugr fang</value>
+  </data>
+  <data name="Draugr trophy" xml:space="preserve">
+    <value>Draugr trophy</value>
+  </data>
+  <data name="Dverger circlet" xml:space="preserve">
+    <value>Dverger circlet</value>
+  </data>
+  <data name="Dyrnwyn" xml:space="preserve">
+    <value>Dyrnwyn</value>
+  </data>
+  <data name="Eikthyr trophy" xml:space="preserve">
+    <value>Eikthyr trophy</value>
+  </data>
+  <data name="Elder heart" xml:space="preserve">
+    <value>Elder heart</value>
+  </data>
+  <data name="Entrails" xml:space="preserve">
+    <value>Entrails</value>
+  </data>
+  <data name="Fang spear" xml:space="preserve">
+    <value>Fang spear</value>
   </data>
   <data name="fart" xml:space="preserve">
     <value>fart</value>
   </data>
+  <data name="Feathers" xml:space="preserve">
+    <value>Feathers</value>
+  </data>
   <data name="Female" xml:space="preserve">
     <value>Female</value>
   </data>
+  <data name="Fenring trophy" xml:space="preserve">
+    <value>Fenring trophy</value>
+  </data>
+  <data name="Fine wood" xml:space="preserve">
+    <value>Fine wood</value>
+  </data>
   <data name="Finewood bow" xml:space="preserve">
     <value>Finewood bow</value>
+  </data>
+  <data name="Fir cone" xml:space="preserve">
+    <value>Fir cone</value>
   </data>
   <data name="Fire arrow" xml:space="preserve">
     <value>Fire arrow</value>
@@ -312,23 +525,92 @@
   <data name="Fire resistance barley wine" xml:space="preserve">
     <value>Fire resistance barley wine</value>
   </data>
+  <data name="fireballattack" xml:space="preserve">
+    <value>fireballattack</value>
+  </data>
   <data name="FireMagic" xml:space="preserve">
     <value>FireMagic</value>
+  </data>
+  <data name="Fish wraps" xml:space="preserve">
+    <value>Fish wraps</value>
+  </data>
+  <data name="Fishing bait" xml:space="preserve">
+    <value>Fishing bait</value>
+  </data>
+  <data name="Fishing rod" xml:space="preserve">
+    <value>Fishing rod</value>
+  </data>
+  <data name="Flametal" xml:space="preserve">
+    <value>Flametal</value>
+  </data>
+  <data name="Flametal ore" xml:space="preserve">
+    <value>Flametal ore</value>
+  </data>
+  <data name="Flax" xml:space="preserve">
+    <value>Flax</value>
+  </data>
+  <data name="Flint" xml:space="preserve">
+    <value>Flint</value>
   </data>
   <data name="Flint axe" xml:space="preserve">
     <value>Flint axe</value>
   </data>
+  <data name="Flint knife" xml:space="preserve">
+    <value>Flint knife</value>
+  </data>
+  <data name="Flint spear" xml:space="preserve">
+    <value>Flint spear</value>
+  </data>
   <data name="Flinthead arrow" xml:space="preserve">
     <value>Flinthead arrow</value>
+  </data>
+  <data name="Freeze gland" xml:space="preserve">
+    <value>Freeze gland</value>
   </data>
   <data name="Frost arrow" xml:space="preserve">
     <value>Frost arrow</value>
   </data>
+  <data name="Frost resistance mead" xml:space="preserve">
+    <value>Frost resistance mead</value>
+  </data>
   <data name="FrostMagic" xml:space="preserve">
     <value>FrostMagic</value>
   </data>
+  <data name="Frostner" xml:space="preserve">
+    <value>Frostner</value>
+  </data>
+  <data name="Fuling berserker trophy" xml:space="preserve">
+    <value>Fuling berserker trophy</value>
+  </data>
+  <data name="Fuling shaman trophy" xml:space="preserve">
+    <value>Fuling shaman trophy</value>
+  </data>
+  <data name="Fuling totem" xml:space="preserve">
+    <value>Fuling totem</value>
+  </data>
+  <data name="Fuling trophy" xml:space="preserve">
+    <value>Fuling trophy</value>
+  </data>
   <data name="General" xml:space="preserve">
     <value>General</value>
+  </data>
+  <data name="Greydwarf Brute trophy" xml:space="preserve">
+    <value>Greydwarf Brute trophy</value>
+  </data>
+  <data name="Greydwarf eye" xml:space="preserve">
+    <value>Greydwarf eye</value>
+  </data>
+  <data name="Greydwarf Shaman trophy" xml:space="preserve">
+    <value>Greydwarf Shaman trophy</value>
+  </data>
+  <data name="Greydwarf trophy" xml:space="preserve">
+    <value>Greydwarf trophy</value>
+  </data>
+  <data name="Grilled Neck tail" xml:space="preserve">
+    <value>Grilled Neck tail</value>
+  </data>
+  <data name="Guck" xml:space="preserve">
+    <value>Guck</value>
   </data>
   <data name="Hair" xml:space="preserve">
     <value>Hair</value>
@@ -336,8 +618,14 @@
   <data name="Hair Colour" xml:space="preserve">
     <value>Hair Colour</value>
   </data>
+  <data name="Hammer" xml:space="preserve">
+    <value>Hammer</value>
+  </data>
   <data name="Hands" xml:space="preserve">
     <value>Hands</value>
+  </data>
+  <data name="Hard antler" xml:space="preserve">
+    <value>Hard antler</value>
   </data>
   <data name="heal" xml:space="preserve">
     <value>heal</value>
@@ -345,11 +633,23 @@
   <data name="Helmet" xml:space="preserve">
     <value>Helmet</value>
   </data>
+  <data name="Hoe" xml:space="preserve">
+    <value>Hoe</value>
+  </data>
+  <data name="Honey" xml:space="preserve">
+    <value>Honey</value>
+  </data>
+  <data name="Hood of Odin" xml:space="preserve">
+    <value>Hood of Odin</value>
+  </data>
   <data name="Huntsman bow" xml:space="preserve">
     <value>Huntsman bow</value>
   </data>
   <data name="Inventory" xml:space="preserve">
     <value>Inventory</value>
+  </data>
+  <data name="Iron" xml:space="preserve">
+    <value>Iron</value>
   </data>
   <data name="Iron atgeir" xml:space="preserve">
     <value>Iron atgeir</value>
@@ -360,11 +660,44 @@
   <data name="Iron greaves" xml:space="preserve">
     <value>Iron greaves</value>
   </data>
+  <data name="Iron helmet" xml:space="preserve">
+    <value>Iron helmet</value>
+  </data>
+  <data name="Iron mace" xml:space="preserve">
+    <value>Iron mace</value>
+  </data>
+  <data name="Iron nails" xml:space="preserve">
+    <value>Iron nails</value>
+  </data>
+  <data name="Iron ore" xml:space="preserve">
+    <value>Iron ore</value>
+  </data>
+  <data name="Iron pickaxe" xml:space="preserve">
+    <value>Iron pickaxe</value>
+  </data>
+  <data name="Iron plate armor" xml:space="preserve">
+    <value>Iron plate armor</value>
+  </data>
   <data name="Iron scale mail" xml:space="preserve">
     <value>Iron scale mail</value>
   </data>
+  <data name="Iron shield" xml:space="preserve">
+    <value>Iron shield</value>
+  </data>
+  <data name="Iron sledge" xml:space="preserve">
+    <value>Iron sledge</value>
+  </data>
+  <data name="Iron sword" xml:space="preserve">
+    <value>Iron sword</value>
+  </data>
+  <data name="Iron tower shield" xml:space="preserve">
+    <value>Iron tower shield</value>
+  </data>
   <data name="Ironhead arrow" xml:space="preserve">
     <value>Ironhead arrow</value>
+  </data>
+  <data name="jaws" xml:space="preserve">
+    <value>jaws</value>
   </data>
   <data name="Jump" xml:space="preserve">
     <value>Jump</value>
@@ -372,20 +705,59 @@
   <data name="Kills" xml:space="preserve">
     <value>Kills</value>
   </data>
+  <data name="Knight shield" xml:space="preserve">
+    <value>Knight shield</value>
+  </data>
   <data name="Knives" xml:space="preserve">
     <value>Knives</value>
+  </data>
+  <data name="Leather helmet" xml:space="preserve">
+    <value>Leather helmet</value>
   </data>
   <data name="Leather pants" xml:space="preserve">
     <value>Leather pants</value>
   </data>
+  <data name="Leather scraps" xml:space="preserve">
+    <value>Leather scraps</value>
+  </data>
   <data name="Leather tunic" xml:space="preserve">
     <value>Leather tunic</value>
+  </data>
+  <data name="Leech trophy" xml:space="preserve">
+    <value>Leech trophy</value>
   </data>
   <data name="Legs" xml:space="preserve">
     <value>Legs</value>
   </data>
+  <data name="Linen cape" xml:space="preserve">
+    <value>Linen cape</value>
+  </data>
+  <data name="Linen thread" xml:space="preserve">
+    <value>Linen thread</value>
+  </data>
+  <data name="LOG" xml:space="preserve">
+    <value>LOG</value>
+  </data>
   <data name="Long 1" xml:space="preserve">
     <value>Long 1</value>
+  </data>
+  <data name="lox bite" xml:space="preserve">
+    <value>lox bite</value>
+  </data>
+  <data name="Lox cape" xml:space="preserve">
+    <value>Lox cape</value>
+  </data>
+  <data name="Lox meat" xml:space="preserve">
+    <value>Lox meat</value>
+  </data>
+  <data name="Lox meat pie" xml:space="preserve">
+    <value>Lox meat pie</value>
+  </data>
+  <data name="Lox pelt" xml:space="preserve">
+    <value>Lox pelt</value>
+  </data>
+  <data name="Lox trophy" xml:space="preserve">
+    <value>Lox trophy</value>
   </data>
   <data name="Male" xml:space="preserve">
     <value>Male</value>
@@ -393,8 +765,44 @@
   <data name="Material" xml:space="preserve">
     <value>Material</value>
   </data>
+  <data name="Mead base: Frost resistance" xml:space="preserve">
+    <value>Mead base: Frost resistance</value>
+  </data>
+  <data name="Mead base: Medium healing" xml:space="preserve">
+    <value>Mead base: Medium healing</value>
+  </data>
+  <data name="Mead base: Medium stamina" xml:space="preserve">
+    <value>Mead base: Medium stamina</value>
+  </data>
+  <data name="Mead base: Minor healing" xml:space="preserve">
+    <value>Mead base: Minor healing</value>
+  </data>
+  <data name="Mead base: Minor stamina" xml:space="preserve">
+    <value>Mead base: Minor stamina</value>
+  </data>
+  <data name="Mead base: Poison resistance" xml:space="preserve">
+    <value>Mead base: Poison resistance</value>
+  </data>
+  <data name="Mead base: Tasty" xml:space="preserve">
+    <value>Mead base: Tasty</value>
+  </data>
+  <data name="Mead horn of Odin" xml:space="preserve">
+    <value>Mead horn of Odin</value>
+  </data>
+  <data name="Medium healing mead" xml:space="preserve">
+    <value>Medium healing mead</value>
+  </data>
+  <data name="Medium stamina mead" xml:space="preserve">
+    <value>Medium stamina mead</value>
+  </data>
   <data name="Megingjord" xml:space="preserve">
     <value>Megingjord</value>
+  </data>
+  <data name="Minor healing mead" xml:space="preserve">
+    <value>Minor healing mead</value>
+  </data>
+  <data name="Minor stamina mead" xml:space="preserve">
+    <value>Minor stamina mead</value>
   </data>
   <data name="Miscellaneous" xml:space="preserve">
     <value>Miscellaneous</value>
@@ -402,8 +810,23 @@
   <data name="Model" xml:space="preserve">
     <value>Model</value>
   </data>
+  <data name="Moder trophy" xml:space="preserve">
+    <value>Moder trophy</value>
+  </data>
+  <data name="Mushroom" xml:space="preserve">
+    <value>Mushroom</value>
+  </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
+  </data>
+  <data name="Neck tail" xml:space="preserve">
+    <value>Neck tail</value>
+  </data>
+  <data name="Neck trophy" xml:space="preserve">
+    <value>Neck trophy</value>
+  </data>
+  <data name="Needle" xml:space="preserve">
+    <value>Needle</value>
   </data>
   <data name="Needle arrow" xml:space="preserve">
     <value>Needle arrow</value>
@@ -414,11 +837,20 @@
   <data name="None" xml:space="preserve">
     <value>None</value>
   </data>
+  <data name="Obsidian" xml:space="preserve">
+    <value>Obsidian</value>
+  </data>
   <data name="Obsidian arrow" xml:space="preserve">
     <value>Obsidian arrow</value>
   </data>
+  <data name="One hand ground slam" xml:space="preserve">
+    <value>One hand ground slam</value>
+  </data>
   <data name="One Handed Weapon" xml:space="preserve">
     <value>One Handed Weapon</value>
+  </data>
+  <data name="Ooze" xml:space="preserve">
+    <value>Ooze</value>
   </data>
   <data name="Ooze bomb" xml:space="preserve">
     <value>Ooze bomb</value>
@@ -429,11 +861,20 @@
   <data name="Padded greaves" xml:space="preserve">
     <value>Padded greaves</value>
   </data>
+  <data name="Padded helmet" xml:space="preserve">
+    <value>Padded helmet</value>
+  </data>
   <data name="Pickaxes" xml:space="preserve">
     <value>Pickaxes</value>
   </data>
+  <data name="Pine cone" xml:space="preserve">
+    <value>Pine cone</value>
+  </data>
   <data name="Poison arrow" xml:space="preserve">
     <value>Poison arrow</value>
+  </data>
+  <data name="Poison resistance mead" xml:space="preserve">
+    <value>Poison resistance mead</value>
   </data>
   <data name="Polearms" xml:space="preserve">
     <value>Polearms</value>
@@ -450,20 +891,83 @@
   <data name="Ponytail 4" xml:space="preserve">
     <value>Ponytail 4</value>
   </data>
+  <data name="Porcupine" xml:space="preserve">
+    <value>Porcupine</value>
+  </data>
+  <data name="Queen bee" xml:space="preserve">
+    <value>Queen bee</value>
+  </data>
+  <data name="Queens jam" xml:space="preserve">
+    <value>Queens jam</value>
+  </data>
   <data name="Rag pants" xml:space="preserve">
     <value>Rag pants</value>
   </data>
   <data name="Rag tunic" xml:space="preserve">
     <value>Rag tunic</value>
   </data>
+  <data name="Rancid remains trophy" xml:space="preserve">
+    <value>Rancid remains trophy</value>
+  </data>
+  <data name="Raspberries" xml:space="preserve">
+    <value>Raspberries</value>
+  </data>
+  <data name="Raw fish" xml:space="preserve">
+    <value>Raw fish</value>
+  </data>
+  <data name="Raw meat" xml:space="preserve">
+    <value>Raw meat</value>
+  </data>
+  <data name="Resin" xml:space="preserve">
+    <value>Resin</value>
+  </data>
   <data name="Revert" xml:space="preserve">
     <value>Revert</value>
+  </data>
+  <data name="Ruby" xml:space="preserve">
+    <value>Ruby</value>
   </data>
   <data name="Run" xml:space="preserve">
     <value>Run</value>
   </data>
+  <data name="Sausages" xml:space="preserve">
+    <value>Sausages</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>Save</value>
+  </data>
+  <data name="Scrap iron" xml:space="preserve">
+    <value>Scrap iron</value>
+  </data>
+  <data name="scream" xml:space="preserve">
+    <value>scream</value>
+  </data>
+  <data name="Serpent bite" xml:space="preserve">
+    <value>Serpent bite</value>
+  </data>
+  <data name="Serpent meat" xml:space="preserve">
+    <value>Serpent meat</value>
+  </data>
+  <data name="Serpent scale" xml:space="preserve">
+    <value>Serpent scale</value>
+  </data>
+  <data name="Serpent scale shield" xml:space="preserve">
+    <value>Serpent scale shield</value>
+  </data>
+  <data name="Serpent stew" xml:space="preserve">
+    <value>Serpent stew</value>
+  </data>
+  <data name="Serpent Taunt" xml:space="preserve">
+    <value>Serpent Taunt</value>
+  </data>
+  <data name="Serpent trophy" xml:space="preserve">
+    <value>Serpent trophy</value>
+  </data>
+  <data name="shaman attack" xml:space="preserve">
+    <value>shaman attack</value>
+  </data>
+  <data name="Sharpening stone" xml:space="preserve">
+    <value>Sharpening stone</value>
   </data>
   <data name="Shield" xml:space="preserve">
     <value>Shield</value>
@@ -486,8 +990,26 @@
   <data name="Side Swept 3" xml:space="preserve">
     <value>Side Swept 3</value>
   </data>
+  <data name="Silver" xml:space="preserve">
+    <value>Silver</value>
+  </data>
   <data name="Silver arrow" xml:space="preserve">
     <value>Silver arrow</value>
+  </data>
+  <data name="Silver Necklace" xml:space="preserve">
+    <value>Silver Necklace</value>
+  </data>
+  <data name="Silver ore" xml:space="preserve">
+    <value>Silver ore</value>
+  </data>
+  <data name="Silver shield" xml:space="preserve">
+    <value>Silver shield</value>
+  </data>
+  <data name="Silver sword" xml:space="preserve">
+    <value>Silver sword</value>
+  </data>
+  <data name="Skeleton trophy" xml:space="preserve">
+    <value>Skeleton trophy</value>
   </data>
   <data name="Skills" xml:space="preserve">
     <value>Skills</value>
@@ -507,14 +1029,59 @@
   <data name="Sneak" xml:space="preserve">
     <value>Sneak</value>
   </data>
+  <data name="spawn" xml:space="preserve">
+    <value>spawn</value>
+  </data>
   <data name="Spears" xml:space="preserve">
     <value>Spears</value>
+  </data>
+  <data name="Spike attack" xml:space="preserve">
+    <value>Spike attack</value>
+  </data>
+  <data name="Spike sweep" xml:space="preserve">
+    <value>Spike sweep</value>
+  </data>
+  <data name="StagAttack1" xml:space="preserve">
+    <value>StagAttack1</value>
+  </data>
+  <data name="StagAttack2" xml:space="preserve">
+    <value>StagAttack2</value>
+  </data>
+  <data name="Stagbreaker" xml:space="preserve">
+    <value>Stagbreaker</value>
+  </data>
+  <data name="Stamina Greydwarf" xml:space="preserve">
+    <value>Stamina Greydwarf</value>
+  </data>
+  <data name="Stamina Troll" xml:space="preserve">
+    <value>Stamina Troll</value>
+  </data>
+  <data name="Stamina Wraith" xml:space="preserve">
+    <value>Stamina Wraith</value>
   </data>
   <data name="Stats" xml:space="preserve">
     <value>Stats</value>
   </data>
+  <data name="Stone" xml:space="preserve">
+    <value>Stone</value>
+  </data>
   <data name="Stone axe" xml:space="preserve">
     <value>Stone axe</value>
+  </data>
+  <data name="Stone Golem trophy" xml:space="preserve">
+    <value>Stone Golem trophy</value>
+  </data>
+  <data name="Stone pickaxe" xml:space="preserve">
+    <value>Stone pickaxe</value>
+  </data>
+  <data name="Surtling core" xml:space="preserve">
+    <value>Surtling core</value>
+  </data>
+  <data name="Surtling trophy" xml:space="preserve">
+    <value>Surtling trophy</value>
+  </data>
+  <data name="Swamp key" xml:space="preserve">
+    <value>Swamp key</value>
   </data>
   <data name="Swim" xml:space="preserve">
     <value>Swim</value>
@@ -522,11 +1089,41 @@
   <data name="Swords" xml:space="preserve">
     <value>Swords</value>
   </data>
+  <data name="Tankard" xml:space="preserve">
+    <value>Tankard</value>
+  </data>
+  <data name="Tasty mead" xml:space="preserve">
+    <value>Tasty mead</value>
+  </data>
+  <data name="The Elder trophy" xml:space="preserve">
+    <value>The Elder trophy</value>
+  </data>
+  <data name="Thistle" xml:space="preserve">
+    <value>Thistle</value>
+  </data>
+  <data name="throw stone" xml:space="preserve">
+    <value>throw stone</value>
+  </data>
+  <data name="Tin" xml:space="preserve">
+    <value>Tin</value>
+  </data>
+  <data name="Tin ore" xml:space="preserve">
+    <value>Tin ore</value>
+  </data>
   <data name="Tool" xml:space="preserve">
     <value>Tool</value>
   </data>
   <data name="Torch" xml:space="preserve">
     <value>Torch</value>
+  </data>
+  <data name="Troll hide" xml:space="preserve">
+    <value>Troll hide</value>
+  </data>
+  <data name="Troll hide cape" xml:space="preserve">
+    <value>Troll hide cape</value>
+  </data>
+  <data name="Troll leather helmet" xml:space="preserve">
+    <value>Troll leather helmet</value>
   </data>
   <data name="Troll leather pants" xml:space="preserve">
     <value>Troll leather pants</value>
@@ -534,8 +1131,20 @@
   <data name="Troll leather tunic" xml:space="preserve">
     <value>Troll leather tunic</value>
   </data>
+  <data name="Troll trophy" xml:space="preserve">
+    <value>Troll trophy</value>
+  </data>
   <data name="Trophy" xml:space="preserve">
     <value>Trophy</value>
+  </data>
+  <data name="Turnip" xml:space="preserve">
+    <value>Turnip</value>
+  </data>
+  <data name="Turnip seeds" xml:space="preserve">
+    <value>Turnip seeds</value>
+  </data>
+  <data name="Turnip stew" xml:space="preserve">
+    <value>Turnip stew</value>
   </data>
   <data name="Two Handed Weapon" xml:space="preserve">
     <value>Two Handed Weapon</value>
@@ -549,16 +1158,73 @@
   <data name="Utility" xml:space="preserve">
     <value>Utility</value>
   </data>
+  <data name="Wishbone" xml:space="preserve">
+    <value>Wishbone</value>
+  </data>
+  <data name="Withered bone" xml:space="preserve">
+    <value>Withered bone</value>
+  </data>
   <data name="Wolf armor chest" xml:space="preserve">
     <value>Wolf armor chest</value>
   </data>
   <data name="Wolf armor legs" xml:space="preserve">
     <value>Wolf armor legs</value>
   </data>
+  <data name="Wolf fang" xml:space="preserve">
+    <value>Wolf fang</value>
+  </data>
+  <data name="Wolf fur cape" xml:space="preserve">
+    <value>Wolf fur cape</value>
+  </data>
+  <data name="Wolf pelt" xml:space="preserve">
+    <value>Wolf pelt</value>
+  </data>
+  <data name="Wolf trophy" xml:space="preserve">
+    <value>Wolf trophy</value>
+  </data>
+  <data name="WolfAttack1" xml:space="preserve">
+    <value>WolfAttack1</value>
+  </data>
+  <data name="WolfAttack2" xml:space="preserve">
+    <value>WolfAttack2</value>
+  </data>
+  <data name="WolfAttack3" xml:space="preserve">
+    <value>WolfAttack3</value>
+  </data>
+  <data name="Wood" xml:space="preserve">
+    <value>Wood</value>
+  </data>
   <data name="Wood arrow" xml:space="preserve">
     <value>Wood arrow</value>
   </data>
+  <data name="Wood shield" xml:space="preserve">
+    <value>Wood shield</value>
+  </data>
+  <data name="Wood tower shield" xml:space="preserve">
+    <value>Wood tower shield</value>
+  </data>
   <data name="WoodCutting" xml:space="preserve">
     <value>WoodCutting</value>
+  </data>
+  <data name="Wraith melee" xml:space="preserve">
+    <value>Wraith melee</value>
+  </data>
+  <data name="Wraith trophy" xml:space="preserve">
+    <value>Wraith trophy</value>
+  </data>
+  <data name="Yagluth thing" xml:space="preserve">
+    <value>Yagluth thing</value>
+  </data>
+  <data name="Yagluth trophy" xml:space="preserve">
+    <value>Yagluth trophy</value>
+  </data>
+  <data name="Yellow mushroom" xml:space="preserve">
+    <value>Yellow mushroom</value>
+  </data>
+  <data name="Ymir flesh" xml:space="preserve">
+    <value>Ymir flesh</value>
+  </data>
+  <data name="Yule hat" xml:space="preserve">
+    <value>Yule hat</value>
   </data>
 </root>
