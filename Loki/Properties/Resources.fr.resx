@@ -118,34 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Abyssal harpoon" xml:space="preserve">
-    <value>Abyssal harpoon</value>
+    <value>Harpon abyssal</value>
   </data>
   <data name="Abyssal razor" xml:space="preserve">
-    <value>Abyssal razor</value>
+    <value>Rasoir abyssal</value>
   </data>
   <data name="All" xml:space="preserve">
     <value>All</value>
   </data>
   <data name="Amber" xml:space="preserve">
-    <value>Amber</value>
+    <value>Ambre</value>
   </data>
   <data name="Amber pearl" xml:space="preserve">
-    <value>Amber pearl</value>
+    <value>Perle d’ambre</value>
   </data>
   <data name="Ammo" xml:space="preserve">
     <value>Ammo</value>
   </data>
   <data name="Ancient bark" xml:space="preserve">
-    <value>Ancient bark</value>
+    <value>Écorce ancienne</value>
   </data>
   <data name="Ancient bark spear" xml:space="preserve">
-    <value>Ancient bark spear</value>
+    <value>Lance en écorce ancienne</value>
   </data>
   <data name="Ancient seed" xml:space="preserve">
-    <value>Ancient seed</value>
+    <value>Graine ancienne</value>
   </data>
   <data name="Antler pickaxe" xml:space="preserve">
-    <value>Antler pickaxe</value>
+    <value>Pioche de bois de cerf</value>
   </data>
   <data name="Attach Atgeir" xml:space="preserve">
     <value>Attach Atgeir</value>
@@ -163,22 +163,22 @@
     <value>Banded shield</value>
   </data>
   <data name="Barley" xml:space="preserve">
-    <value>Barley</value>
+    <value>Orge</value>
   </data>
   <data name="Barley flour" xml:space="preserve">
-    <value>Barley flour</value>
+    <value>Farine d'orge</value>
   </data>
   <data name="Barley wine base: Fire resistance" xml:space="preserve">
-    <value>Barley wine base: Fire resistance</value>
+    <value>Base de vin d'orge : résistance au feu</value>
   </data>
   <data name="Battleaxe" xml:space="preserve">
     <value>Battleaxe</value>
   </data>
   <data name="Beard" xml:space="preserve">
-    <value>Beard</value>
+    <value>Barbe</value>
   </data>
   <data name="Beech seeds" xml:space="preserve">
-    <value>Beech seeds</value>
+    <value>Graine de hêtre</value>
   </data>
   <data name="Black metal" xml:space="preserve">
     <value>Black metal</value>
@@ -310,47 +310,47 @@
     <value>Builds</value>
   </data>
   <data name="B_Braided 1" xml:space="preserve">
-    <value>Braided 1</value>
+    <value>Tressée 1</value>
     <comment>customization_beard05</comment>
   </data>
   <data name="B_Braided 2" xml:space="preserve">
-    <value>Braided 2</value>
+    <value>Tressée 2</value>
     <comment>customization_beard06</comment>
   </data>
   <data name="B_Braided 3" xml:space="preserve">
-    <value>Braided 3</value>
+    <value>Tressée 3</value>
     <comment>customization_beard09</comment>
   </data>
   <data name="B_Braided 4" xml:space="preserve">
-    <value>Braided 4</value>
+    <value>Tressée 4</value>
     <comment>customization_beard10</comment>
   </data>
   <data name="B_Long 1" xml:space="preserve">
-    <value>Long 1</value>
+    <value>Longue 1</value>
     <comment>customization_beard01</comment>
   </data>
   <data name="B_Long 2" xml:space="preserve">
-    <value>Long 2</value>
+    <value>Longue 2</value>
     <comment>customization_beard02</comment>
   </data>
   <data name="B_No beard" xml:space="preserve">
-    <value>No beard</value>
+    <value>Pas de barbe</value>
     <comment>customization_nobeard</comment>
   </data>
   <data name="B_Short 1" xml:space="preserve">
-    <value>Short 1</value>
+    <value>Courte 1</value>
     <comment>customization_beard03</comment>
   </data>
   <data name="B_Short 2" xml:space="preserve">
-    <value>Short 2</value>
+    <value>Courte 2</value>
     <comment>customization_beard04</comment>
   </data>
   <data name="B_Short 3" xml:space="preserve">
-    <value>Short 3</value>
+    <value>Courte 3</value>
     <comment>customization_beard07</comment>
   </data>
   <data name="B_Thick 1" xml:space="preserve">
-    <value>Thick 1</value>
+    <value>Fourni 1</value>
     <comment>customization_beard08</comment>
   </data>
   <data name="Cape of Odin" xml:space="preserve">

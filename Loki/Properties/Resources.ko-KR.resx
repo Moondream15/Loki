@@ -311,36 +311,47 @@
   </data>
   <data name="B_Braided 1" xml:space="preserve">
     <value>땋음 1</value>
+    <comment>customization_beard05</comment>
   </data>
   <data name="B_Braided 2" xml:space="preserve">
     <value>땋음 2</value>
+    <comment>customization_beard06</comment>
   </data>
   <data name="B_Braided 3" xml:space="preserve">
     <value>땋음 3</value>
+    <comment>customization_beard09</comment>
   </data>
   <data name="B_Braided 4" xml:space="preserve">
     <value>땋음 4</value>
+    <comment>customization_beard10</comment>
   </data>
   <data name="B_Long 1" xml:space="preserve">
     <value>긺 1</value>
+    <comment>customization_beard01</comment>
   </data>
   <data name="B_Long 2" xml:space="preserve">
     <value>긺 2</value>
+    <comment>customization_beard02</comment>
   </data>
   <data name="B_No beard" xml:space="preserve">
     <value>수염 없음</value>
+    <comment>customization_nobeard</comment>
   </data>
   <data name="B_Short 1" xml:space="preserve">
     <value>짧음 1</value>
+    <comment>customization_beard03</comment>
   </data>
   <data name="B_Short 2" xml:space="preserve">
     <value>짧음 2</value>
+    <comment>customization_beard04</comment>
   </data>
   <data name="B_Short 3" xml:space="preserve">
     <value>짧음 3</value>
+    <comment>customization_beard07</comment>
   </data>
   <data name="B_Thick 1" xml:space="preserve">
     <value>두꺼운 1</value>
+    <comment>customization_beard08</comment>
   </data>
   <data name="Cape of Odin" xml:space="preserve">
     <value>오딘의 망토</value>
