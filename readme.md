@@ -36,6 +36,8 @@ It is currently in a very early pre-release state and therefore use only at your
 ![Screenshot of inventory editor](Screenshots/loki-screenshot-inv.png)
 ![Screenshot of Loki editing character skills](Screenshots/loki-screenshot-2.png)
 ![Screenshot of Wuffles looking radioactive](Screenshots/loki-screenshot-3.png)
+![Screenshot of Wuffles looking radioactive](Screenshots/loki-screenshot-5.png)
+![Screenshot of Wuffles looking radioactive](Screenshots/loki-screenshot-6.png)
 
 ## Usage
 
